@@ -1,0 +1,11 @@
+[project]
+name = "slam-hw-particle-filter"
+version = "0.1.0"
+description = "SLAM Homework - Particle Filter"
+requires-python = ">=3.8"
+dependencies = [
+    "numpy",
+    "scipy",
+    "matplotlib",
+    "opencv-python>=4.13.0.92",
+]

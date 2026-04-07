@@ -1,0 +1,2989 @@
+loading frame 1
+Point-based fusion
+  trans err vs GT (Z-up viz): 0.0000 m | mean so far: 0.0000 m
+loading frame 2
+Frame-to-model ICP
+iter 0: avg loss = 7.4906e-06, inlier count = 37039
+iter 1: avg loss = 4.5910e-07, inlier count = 37040
+iter 2: avg loss = 4.6244e-07, inlier count = 37041
+iter 3: avg loss = 4.6299e-07, inlier count = 37041
+iter 4: avg loss = 4.6298e-07, inlier count = 37041
+iter 5: avg loss = 4.6298e-07, inlier count = 37041
+iter 6: avg loss = 4.6298e-07, inlier count = 37041
+iter 7: avg loss = 4.6298e-07, inlier count = 37041
+iter 8: avg loss = 4.6298e-07, inlier count = 37041
+iter 9: avg loss = 4.6298e-07, inlier count = 37041
+Point-based fusion
+updated: 47775, added: 29053, total: 105853
+  trans err vs GT (Z-up viz): 0.0008 m | mean so far: 0.0004 m
+loading frame 3
+Frame-to-model ICP
+iter 0: avg loss = 1.5671e-05, inlier count = 49080
+iter 1: avg loss = 9.1803e-07, inlier count = 50547
+iter 2: avg loss = 9.0201e-07, inlier count = 50588
+iter 3: avg loss = 8.7965e-07, inlier count = 50594
+iter 4: avg loss = 8.7982e-07, inlier count = 50592
+iter 5: avg loss = 8.7984e-07, inlier count = 50592
+iter 6: avg loss = 8.7984e-07, inlier count = 50592
+iter 7: avg loss = 8.7984e-07, inlier count = 50592
+iter 8: avg loss = 8.7984e-07, inlier count = 50592
+iter 9: avg loss = 8.7984e-07, inlier count = 50592
+Point-based fusion
+updated: 42367, added: 37619, total: 143472
+  trans err vs GT (Z-up viz): 0.0028 m | mean so far: 0.0012 m
+loading frame 4
+Frame-to-model ICP
+iter 0: avg loss = 2.4984e-06, inlier count = 69371
+iter 1: avg loss = 5.3260e-07, inlier count = 69396
+iter 2: avg loss = 5.3312e-07, inlier count = 69399
+iter 3: avg loss = 5.3312e-07, inlier count = 69399
+iter 4: avg loss = 5.3312e-07, inlier count = 69399
+iter 5: avg loss = 5.3312e-07, inlier count = 69399
+iter 6: avg loss = 5.3312e-07, inlier count = 69399
+iter 7: avg loss = 5.3312e-07, inlier count = 69399
+iter 8: avg loss = 5.3312e-07, inlier count = 69399
+iter 9: avg loss = 5.3312e-07, inlier count = 69399
+Point-based fusion
+updated: 65177, added: 16864, total: 160336
+  trans err vs GT (Z-up viz): 0.0028 m | mean so far: 0.0016 m
+loading frame 5
+Frame-to-model ICP
+iter 0: avg loss = 1.9244e-06, inlier count = 77342
+iter 1: avg loss = 4.2986e-07, inlier count = 77515
+iter 2: avg loss = 4.3029e-07, inlier count = 77517
+iter 3: avg loss = 4.2964e-07, inlier count = 77517
+iter 4: avg loss = 4.3029e-07, inlier count = 77517
+iter 5: avg loss = 4.2964e-07, inlier count = 77517
+iter 6: avg loss = 4.3029e-07, inlier count = 77517
+iter 7: avg loss = 4.2964e-07, inlier count = 77517
+iter 8: avg loss = 4.3029e-07, inlier count = 77517
+iter 9: avg loss = 4.2964e-07, inlier count = 77517
+Point-based fusion
+updated: 72304, added: 12731, total: 173067
+  trans err vs GT (Z-up viz): 0.0032 m | mean so far: 0.0019 m
+loading frame 6
+Frame-to-model ICP
+iter 0: avg loss = 9.5714e-07, inlier count = 83855
+iter 1: avg loss = 3.3660e-07, inlier count = 83887
+iter 2: avg loss = 3.3662e-07, inlier count = 83887
+iter 3: avg loss = 3.3662e-07, inlier count = 83887
+iter 4: avg loss = 3.3662e-07, inlier count = 83887
+iter 5: avg loss = 3.3662e-07, inlier count = 83887
+iter 6: avg loss = 3.3662e-07, inlier count = 83887
+iter 7: avg loss = 3.3662e-07, inlier count = 83887
+iter 8: avg loss = 3.3662e-07, inlier count = 83887
+iter 9: avg loss = 3.3662e-07, inlier count = 83887
+Point-based fusion
+updated: 76399, added: 9187, total: 182254
+  trans err vs GT (Z-up viz): 0.0033 m | mean so far: 0.0021 m
+loading frame 7
+Frame-to-model ICP
+iter 0: avg loss = 5.5837e-07, inlier count = 88195
+iter 1: avg loss = 3.2076e-07, inlier count = 88180
+iter 2: avg loss = 3.2075e-07, inlier count = 88179
+iter 3: avg loss = 3.2076e-07, inlier count = 88179
+iter 4: avg loss = 3.2076e-07, inlier count = 88179
+iter 5: avg loss = 3.2076e-07, inlier count = 88179
+iter 6: avg loss = 3.2076e-07, inlier count = 88179
+iter 7: avg loss = 3.2076e-07, inlier count = 88179
+iter 8: avg loss = 3.2076e-07, inlier count = 88179
+iter 9: avg loss = 3.2076e-07, inlier count = 88179
+Point-based fusion
+updated: 80221, added: 5812, total: 188066
+  trans err vs GT (Z-up viz): 0.0034 m | mean so far: 0.0023 m
+loading frame 8
+Frame-to-model ICP
+iter 0: avg loss = 8.7451e-07, inlier count = 90234
+iter 1: avg loss = 3.3403e-07, inlier count = 90363
+iter 2: avg loss = 3.3440e-07, inlier count = 90363
+iter 3: avg loss = 3.3440e-07, inlier count = 90363
+iter 4: avg loss = 3.3440e-07, inlier count = 90364
+iter 5: avg loss = 3.3440e-07, inlier count = 90364
+iter 6: avg loss = 3.3440e-07, inlier count = 90364
+iter 7: avg loss = 3.3440e-07, inlier count = 90364
+iter 8: avg loss = 3.3440e-07, inlier count = 90364
+iter 9: avg loss = 3.3440e-07, inlier count = 90364
+Point-based fusion
+updated: 79767, added: 7291, total: 195357
+  trans err vs GT (Z-up viz): 0.0035 m | mean so far: 0.0025 m
+loading frame 9
+Frame-to-model ICP
+iter 0: avg loss = 1.0121e-06, inlier count = 92775
+iter 1: avg loss = 3.8785e-07, inlier count = 92854
+iter 2: avg loss = 3.9041e-07, inlier count = 92861
+iter 3: avg loss = 3.9044e-07, inlier count = 92861
+iter 4: avg loss = 3.9044e-07, inlier count = 92861
+iter 5: avg loss = 3.9044e-07, inlier count = 92861
+iter 6: avg loss = 3.9044e-07, inlier count = 92861
+iter 7: avg loss = 3.9044e-07, inlier count = 92861
+iter 8: avg loss = 3.9044e-07, inlier count = 92861
+iter 9: avg loss = 3.9044e-07, inlier count = 92861
+Point-based fusion
+updated: 81024, added: 7774, total: 203131
+  trans err vs GT (Z-up viz): 0.0037 m | mean so far: 0.0026 m
+loading frame 10
+Frame-to-model ICP
+iter 0: avg loss = 1.4962e-06, inlier count = 95632
+iter 1: avg loss = 4.8823e-07, inlier count = 96262
+iter 2: avg loss = 4.9742e-07, inlier count = 96286
+iter 3: avg loss = 4.9741e-07, inlier count = 96286
+iter 4: avg loss = 4.9741e-07, inlier count = 96286
+iter 5: avg loss = 4.9741e-07, inlier count = 96286
+iter 6: avg loss = 4.9741e-07, inlier count = 96286
+iter 7: avg loss = 4.9741e-07, inlier count = 96286
+iter 8: avg loss = 4.9741e-07, inlier count = 96286
+iter 9: avg loss = 4.9741e-07, inlier count = 96286
+Point-based fusion
+updated: 79568, added: 9913, total: 213044
+  trans err vs GT (Z-up viz): 0.0041 m | mean so far: 0.0028 m
+loading frame 11
+Frame-to-model ICP
+iter 0: avg loss = 2.5902e-06, inlier count = 100301
+iter 1: avg loss = 5.5301e-07, inlier count = 100888
+iter 2: avg loss = 5.5515e-07, inlier count = 100878
+iter 3: avg loss = 5.5552e-07, inlier count = 100880
+iter 4: avg loss = 5.5553e-07, inlier count = 100880
+iter 5: avg loss = 5.5553e-07, inlier count = 100880
+iter 6: avg loss = 5.5553e-07, inlier count = 100880
+iter 7: avg loss = 5.5553e-07, inlier count = 100880
+iter 8: avg loss = 5.5553e-07, inlier count = 100880
+iter 9: avg loss = 5.5553e-07, inlier count = 100880
+Point-based fusion
+updated: 76085, added: 13613, total: 226657
+  trans err vs GT (Z-up viz): 0.0040 m | mean so far: 0.0029 m
+loading frame 12
+Frame-to-model ICP
+iter 0: avg loss = 5.6977e-06, inlier count = 107168
+iter 1: avg loss = 6.1056e-07, inlier count = 107570
+iter 2: avg loss = 6.1060e-07, inlier count = 107570
+iter 3: avg loss = 6.1059e-07, inlier count = 107570
+iter 4: avg loss = 6.1059e-07, inlier count = 107570
+iter 5: avg loss = 6.1059e-07, inlier count = 107570
+iter 6: avg loss = 6.1059e-07, inlier count = 107570
+iter 7: avg loss = 6.1059e-07, inlier count = 107570
+iter 8: avg loss = 6.1059e-07, inlier count = 107570
+iter 9: avg loss = 6.1059e-07, inlier count = 107570
+Point-based fusion
+updated: 80984, added: 11018, total: 237675
+  trans err vs GT (Z-up viz): 0.0031 m | mean so far: 0.0029 m
+loading frame 13
+Frame-to-model ICP
+iter 0: avg loss = 2.4062e-06, inlier count = 112265
+iter 1: avg loss = 6.0242e-07, inlier count = 112736
+iter 2: avg loss = 6.0639e-07, inlier count = 112733
+iter 3: avg loss = 6.0642e-07, inlier count = 112732
+iter 4: avg loss = 6.0642e-07, inlier count = 112732
+iter 5: avg loss = 6.0642e-07, inlier count = 112732
+iter 6: avg loss = 6.0642e-07, inlier count = 112732
+iter 7: avg loss = 6.0642e-07, inlier count = 112732
+iter 8: avg loss = 6.0642e-07, inlier count = 112732
+iter 9: avg loss = 6.0642e-07, inlier count = 112732
+Point-based fusion
+updated: 82429, added: 11138, total: 248813
+  trans err vs GT (Z-up viz): 0.0032 m | mean so far: 0.0029 m
+loading frame 14
+Frame-to-model ICP
+iter 0: avg loss = 3.6575e-06, inlier count = 118094
+iter 1: avg loss = 6.5347e-07, inlier count = 118223
+iter 2: avg loss = 6.4904e-07, inlier count = 118215
+iter 3: avg loss = 6.4902e-07, inlier count = 118215
+iter 4: avg loss = 6.4902e-07, inlier count = 118215
+iter 5: avg loss = 6.4902e-07, inlier count = 118215
+iter 6: avg loss = 6.4902e-07, inlier count = 118215
+iter 7: avg loss = 6.4902e-07, inlier count = 118215
+iter 8: avg loss = 6.4902e-07, inlier count = 118215
+iter 9: avg loss = 6.4902e-07, inlier count = 118215
+Point-based fusion
+updated: 90296, added: 7324, total: 256137
+  trans err vs GT (Z-up viz): 0.0026 m | mean so far: 0.0029 m
+loading frame 15
+Frame-to-model ICP
+iter 0: avg loss = 2.4983e-06, inlier count = 121091
+iter 1: avg loss = 6.8099e-07, inlier count = 121509
+iter 2: avg loss = 6.8054e-07, inlier count = 121514
+iter 3: avg loss = 6.8054e-07, inlier count = 121512
+iter 4: avg loss = 6.8059e-07, inlier count = 121513
+iter 5: avg loss = 6.8060e-07, inlier count = 121513
+iter 6: avg loss = 6.8060e-07, inlier count = 121513
+iter 7: avg loss = 6.8060e-07, inlier count = 121513
+iter 8: avg loss = 6.8060e-07, inlier count = 121513
+iter 9: avg loss = 6.8060e-07, inlier count = 121513
+Point-based fusion
+updated: 94223, added: 6040, total: 262177
+  trans err vs GT (Z-up viz): 0.0027 m | mean so far: 0.0029 m
+loading frame 16
+Frame-to-model ICP
+iter 0: avg loss = 1.3921e-05, inlier count = 122472
+iter 1: avg loss = 7.1140e-07, inlier count = 123709
+iter 2: avg loss = 7.0337e-07, inlier count = 123703
+iter 3: avg loss = 7.0333e-07, inlier count = 123705
+iter 4: avg loss = 7.0323e-07, inlier count = 123705
+iter 5: avg loss = 7.0331e-07, inlier count = 123705
+iter 6: avg loss = 7.0322e-07, inlier count = 123705
+iter 7: avg loss = 7.0331e-07, inlier count = 123705
+iter 8: avg loss = 7.0322e-07, inlier count = 123705
+iter 9: avg loss = 7.0331e-07, inlier count = 123705
+Point-based fusion
+updated: 88472, added: 12101, total: 274278
+  trans err vs GT (Z-up viz): 0.0016 m | mean so far: 0.0028 m
+loading frame 17
+Frame-to-model ICP
+iter 0: avg loss = 1.0166e-05, inlier count = 126473
+iter 1: avg loss = 7.9981e-07, inlier count = 128422
+iter 2: avg loss = 8.1745e-07, inlier count = 128433
+iter 3: avg loss = 8.1764e-07, inlier count = 128437
+iter 4: avg loss = 8.1764e-07, inlier count = 128437
+iter 5: avg loss = 8.1764e-07, inlier count = 128437
+iter 6: avg loss = 8.1764e-07, inlier count = 128437
+iter 7: avg loss = 8.1764e-07, inlier count = 128437
+iter 8: avg loss = 8.1764e-07, inlier count = 128437
+iter 9: avg loss = 8.1764e-07, inlier count = 128437
+Point-based fusion
+updated: 80820, added: 17609, total: 291887
+  trans err vs GT (Z-up viz): 0.0011 m | mean so far: 0.0027 m
+loading frame 18
+Frame-to-model ICP
+iter 0: avg loss = 4.8591e-06, inlier count = 136702
+iter 1: avg loss = 7.2588e-07, inlier count = 137096
+iter 2: avg loss = 7.2345e-07, inlier count = 137079
+iter 3: avg loss = 7.2330e-07, inlier count = 137079
+iter 4: avg loss = 7.2326e-07, inlier count = 137078
+iter 5: avg loss = 7.2329e-07, inlier count = 137078
+iter 6: avg loss = 7.2326e-07, inlier count = 137078
+iter 7: avg loss = 7.2329e-07, inlier count = 137078
+iter 8: avg loss = 7.2326e-07, inlier count = 137078
+iter 9: avg loss = 7.2329e-07, inlier count = 137078
+Point-based fusion
+updated: 88671, added: 12284, total: 304171
+  trans err vs GT (Z-up viz): 0.0006 m | mean so far: 0.0026 m
+loading frame 19
+Frame-to-model ICP
+iter 0: avg loss = 9.9444e-06, inlier count = 141612
+iter 1: avg loss = 8.6086e-07, inlier count = 142383
+iter 2: avg loss = 8.5855e-07, inlier count = 142342
+iter 3: avg loss = 8.5785e-07, inlier count = 142340
+iter 4: avg loss = 8.5785e-07, inlier count = 142340
+iter 5: avg loss = 8.5785e-07, inlier count = 142340
+iter 6: avg loss = 8.5785e-07, inlier count = 142340
+iter 7: avg loss = 8.5785e-07, inlier count = 142340
+iter 8: avg loss = 8.5785e-07, inlier count = 142340
+iter 9: avg loss = 8.5785e-07, inlier count = 142340
+Point-based fusion
+updated: 87969, added: 14613, total: 318784
+  trans err vs GT (Z-up viz): 0.0008 m | mean so far: 0.0025 m
+loading frame 20
+Frame-to-model ICP
+iter 0: avg loss = 1.2864e-05, inlier count = 146765
+iter 1: avg loss = 8.3606e-07, inlier count = 148342
+iter 2: avg loss = 8.3289e-07, inlier count = 148324
+iter 3: avg loss = 8.3266e-07, inlier count = 148322
+iter 4: avg loss = 8.3265e-07, inlier count = 148322
+iter 5: avg loss = 8.3265e-07, inlier count = 148322
+iter 6: avg loss = 8.3265e-07, inlier count = 148322
+iter 7: avg loss = 8.3265e-07, inlier count = 148322
+iter 8: avg loss = 8.3265e-07, inlier count = 148322
+iter 9: avg loss = 8.3265e-07, inlier count = 148322
+Point-based fusion
+updated: 88504, added: 14974, total: 333758
+  trans err vs GT (Z-up viz): 0.0020 m | mean so far: 0.0025 m
+loading frame 21
+Frame-to-model ICP
+iter 0: avg loss = 1.3313e-05, inlier count = 154769
+iter 1: avg loss = 8.9671e-07, inlier count = 155565
+iter 2: avg loss = 8.7906e-07, inlier count = 155539
+iter 3: avg loss = 8.7866e-07, inlier count = 155534
+iter 4: avg loss = 8.7865e-07, inlier count = 155533
+iter 5: avg loss = 8.7865e-07, inlier count = 155533
+iter 6: avg loss = 8.7865e-07, inlier count = 155533
+iter 7: avg loss = 8.7865e-07, inlier count = 155533
+iter 8: avg loss = 8.7865e-07, inlier count = 155533
+iter 9: avg loss = 8.7865e-07, inlier count = 155533
+Point-based fusion
+updated: 92811, added: 12920, total: 346678
+  trans err vs GT (Z-up viz): 0.0036 m | mean so far: 0.0025 m
+loading frame 22
+Frame-to-model ICP
+iter 0: avg loss = 1.3121e-05, inlier count = 159602
+iter 1: avg loss = 8.8029e-07, inlier count = 160796
+iter 2: avg loss = 8.7494e-07, inlier count = 160765
+iter 3: avg loss = 8.7454e-07, inlier count = 160761
+iter 4: avg loss = 8.7456e-07, inlier count = 160760
+iter 5: avg loss = 8.7454e-07, inlier count = 160760
+iter 6: avg loss = 8.7456e-07, inlier count = 160760
+iter 7: avg loss = 8.7454e-07, inlier count = 160760
+iter 8: avg loss = 8.7456e-07, inlier count = 160760
+iter 9: avg loss = 8.7454e-07, inlier count = 160760
+Point-based fusion
+updated: 93683, added: 13607, total: 360285
+  trans err vs GT (Z-up viz): 0.0045 m | mean so far: 0.0026 m
+loading frame 23
+Frame-to-model ICP
+iter 0: avg loss = 3.6988e-05, inlier count = 162773
+iter 1: avg loss = 1.1219e-06, inlier count = 166521
+iter 2: avg loss = 1.1018e-06, inlier count = 166508
+iter 3: avg loss = 1.0932e-06, inlier count = 166504
+iter 4: avg loss = 1.0932e-06, inlier count = 166504
+iter 5: avg loss = 1.0932e-06, inlier count = 166504
+iter 6: avg loss = 1.0932e-06, inlier count = 166504
+iter 7: avg loss = 1.0932e-06, inlier count = 166504
+iter 8: avg loss = 1.0932e-06, inlier count = 166504
+iter 9: avg loss = 1.0932e-06, inlier count = 166504
+Point-based fusion
+updated: 92665, added: 15182, total: 375467
+  trans err vs GT (Z-up viz): 0.0071 m | mean so far: 0.0028 m
+loading frame 24
+Frame-to-model ICP
+iter 0: avg loss = 1.1473e-05, inlier count = 172145
+iter 1: avg loss = 1.0802e-06, inlier count = 173204
+iter 2: avg loss = 1.0419e-06, inlier count = 173125
+iter 3: avg loss = 1.0405e-06, inlier count = 173115
+iter 4: avg loss = 1.0396e-06, inlier count = 173112
+iter 5: avg loss = 1.0404e-06, inlier count = 173113
+iter 6: avg loss = 1.0395e-06, inlier count = 173112
+iter 7: avg loss = 1.0404e-06, inlier count = 173112
+iter 8: avg loss = 1.0395e-06, inlier count = 173112
+iter 9: avg loss = 1.0404e-06, inlier count = 173112
+Point-based fusion
+updated: 98464, added: 12444, total: 387911
+  trans err vs GT (Z-up viz): 0.0085 m | mean so far: 0.0030 m
+loading frame 25
+Frame-to-model ICP
+iter 0: avg loss = 3.6199e-05, inlier count = 174174
+iter 1: avg loss = 1.3844e-06, inlier count = 178139
+iter 2: avg loss = 1.2827e-06, inlier count = 178017
+iter 3: avg loss = 1.2815e-06, inlier count = 178018
+iter 4: avg loss = 1.2813e-06, inlier count = 178014
+iter 5: avg loss = 1.2813e-06, inlier count = 178015
+iter 6: avg loss = 1.2813e-06, inlier count = 178015
+iter 7: avg loss = 1.2813e-06, inlier count = 178015
+iter 8: avg loss = 1.2813e-06, inlier count = 178015
+iter 9: avg loss = 1.2813e-06, inlier count = 178015
+Point-based fusion
+updated: 96740, added: 13821, total: 401732
+  trans err vs GT (Z-up viz): 0.0114 m | mean so far: 0.0034 m
+loading frame 26
+Frame-to-model ICP
+iter 0: avg loss = 4.5399e-05, inlier count = 180817
+iter 1: avg loss = 1.3429e-06, inlier count = 183973
+iter 2: avg loss = 1.2682e-06, inlier count = 183816
+iter 3: avg loss = 1.2600e-06, inlier count = 183812
+iter 4: avg loss = 1.2600e-06, inlier count = 183812
+iter 5: avg loss = 1.2600e-06, inlier count = 183812
+iter 6: avg loss = 1.2600e-06, inlier count = 183812
+iter 7: avg loss = 1.2600e-06, inlier count = 183812
+iter 8: avg loss = 1.2600e-06, inlier count = 183812
+iter 9: avg loss = 1.2600e-06, inlier count = 183812
+Point-based fusion
+updated: 99870, added: 12935, total: 414667
+  trans err vs GT (Z-up viz): 0.0143 m | mean so far: 0.0038 m
+loading frame 27
+Frame-to-model ICP
+iter 0: avg loss = 2.1940e-05, inlier count = 187134
+iter 1: avg loss = 1.2848e-06, inlier count = 188812
+iter 2: avg loss = 1.2398e-06, inlier count = 188764
+iter 3: avg loss = 1.2388e-06, inlier count = 188763
+iter 4: avg loss = 1.2387e-06, inlier count = 188763
+iter 5: avg loss = 1.2388e-06, inlier count = 188763
+iter 6: avg loss = 1.2387e-06, inlier count = 188763
+iter 7: avg loss = 1.2387e-06, inlier count = 188763
+iter 8: avg loss = 1.2387e-06, inlier count = 188763
+iter 9: avg loss = 1.2387e-06, inlier count = 188763
+Point-based fusion
+updated: 104838, added: 11775, total: 426442
+  trans err vs GT (Z-up viz): 0.0164 m | mean so far: 0.0043 m
+loading frame 28
+Frame-to-model ICP
+iter 0: avg loss = 3.9402e-05, inlier count = 191043
+iter 1: avg loss = 1.4027e-06, inlier count = 193675
+iter 2: avg loss = 1.2997e-06, inlier count = 193577
+iter 3: avg loss = 1.2971e-06, inlier count = 193568
+iter 4: avg loss = 1.2969e-06, inlier count = 193570
+iter 5: avg loss = 1.2969e-06, inlier count = 193570
+iter 6: avg loss = 1.2969e-06, inlier count = 193570
+iter 7: avg loss = 1.2969e-06, inlier count = 193570
+iter 8: avg loss = 1.2969e-06, inlier count = 193570
+iter 9: avg loss = 1.2969e-06, inlier count = 193570
+Point-based fusion
+updated: 108405, added: 11287, total: 437729
+  trans err vs GT (Z-up viz): 0.0189 m | mean so far: 0.0048 m
+loading frame 29
+Frame-to-model ICP
+iter 0: avg loss = 3.5946e-05, inlier count = 196339
+iter 1: avg loss = 1.6664e-06, inlier count = 198296
+iter 2: avg loss = 1.5514e-06, inlier count = 198244
+iter 3: avg loss = 1.5420e-06, inlier count = 198238
+iter 4: avg loss = 1.5420e-06, inlier count = 198239
+iter 5: avg loss = 1.5420e-06, inlier count = 198240
+iter 6: avg loss = 1.5420e-06, inlier count = 198240
+iter 7: avg loss = 1.5420e-06, inlier count = 198240
+iter 8: avg loss = 1.5420e-06, inlier count = 198240
+iter 9: avg loss = 1.5420e-06, inlier count = 198240
+Point-based fusion
+updated: 113479, added: 10652, total: 448381
+  trans err vs GT (Z-up viz): 0.0219 m | mean so far: 0.0054 m
+loading frame 30
+Frame-to-model ICP
+iter 0: avg loss = 2.7014e-05, inlier count = 200947
+iter 1: avg loss = 1.4409e-06, inlier count = 202075
+iter 2: avg loss = 1.3906e-06, inlier count = 202017
+iter 3: avg loss = 1.3884e-06, inlier count = 201995
+iter 4: avg loss = 1.3882e-06, inlier count = 201992
+iter 5: avg loss = 1.3883e-06, inlier count = 201993
+iter 6: avg loss = 1.3883e-06, inlier count = 201993
+iter 7: avg loss = 1.3883e-06, inlier count = 201993
+iter 8: avg loss = 1.3883e-06, inlier count = 201993
+iter 9: avg loss = 1.3883e-06, inlier count = 201993
+Point-based fusion
+updated: 119646, added: 9260, total: 457641
+  trans err vs GT (Z-up viz): 0.0239 m | mean so far: 0.0060 m
+loading frame 31
+Frame-to-model ICP
+iter 0: avg loss = 4.0304e-05, inlier count = 204199
+iter 1: avg loss = 1.8480e-06, inlier count = 205669
+iter 2: avg loss = 1.6979e-06, inlier count = 205511
+iter 3: avg loss = 1.6902e-06, inlier count = 205499
+iter 4: avg loss = 1.6902e-06, inlier count = 205500
+iter 5: avg loss = 1.6902e-06, inlier count = 205500
+iter 6: avg loss = 1.6902e-06, inlier count = 205500
+iter 7: avg loss = 1.6902e-06, inlier count = 205500
+iter 8: avg loss = 1.6902e-06, inlier count = 205500
+iter 9: avg loss = 1.6902e-06, inlier count = 205500
+Point-based fusion
+updated: 122659, added: 9552, total: 467193
+  trans err vs GT (Z-up viz): 0.0267 m | mean so far: 0.0067 m
+loading frame 32
+Frame-to-model ICP
+iter 0: avg loss = 1.6287e-05, inlier count = 208726
+iter 1: avg loss = 1.6752e-06, inlier count = 210057
+iter 2: avg loss = 1.6222e-06, inlier count = 210049
+iter 3: avg loss = 1.6216e-06, inlier count = 210045
+iter 4: avg loss = 1.6215e-06, inlier count = 210045
+iter 5: avg loss = 1.6215e-06, inlier count = 210045
+iter 6: avg loss = 1.6215e-06, inlier count = 210045
+iter 7: avg loss = 1.6215e-06, inlier count = 210045
+iter 8: avg loss = 1.6215e-06, inlier count = 210045
+iter 9: avg loss = 1.6215e-06, inlier count = 210045
+Point-based fusion
+updated: 129949, added: 7940, total: 475133
+  trans err vs GT (Z-up viz): 0.0285 m | mean so far: 0.0073 m
+loading frame 33
+Frame-to-model ICP
+iter 0: avg loss = 8.6199e-05, inlier count = 210002
+iter 1: avg loss = 2.4384e-06, inlier count = 212365
+iter 2: avg loss = 2.4102e-06, inlier count = 212364
+iter 3: avg loss = 2.4029e-06, inlier count = 212363
+iter 4: avg loss = 2.4028e-06, inlier count = 212362
+iter 5: avg loss = 2.4028e-06, inlier count = 212362
+iter 6: avg loss = 2.4028e-06, inlier count = 212362
+iter 7: avg loss = 2.4028e-06, inlier count = 212362
+iter 8: avg loss = 2.4028e-06, inlier count = 212362
+iter 9: avg loss = 2.4028e-06, inlier count = 212362
+Point-based fusion
+updated: 140352, added: 7187, total: 482320
+  trans err vs GT (Z-up viz): 0.0315 m | mean so far: 0.0081 m
+loading frame 34
+Frame-to-model ICP
+iter 0: avg loss = 1.7229e-05, inlier count = 214247
+iter 1: avg loss = 2.0943e-06, inlier count = 215136
+iter 2: avg loss = 2.0546e-06, inlier count = 215076
+iter 3: avg loss = 2.0539e-06, inlier count = 215074
+iter 4: avg loss = 2.0531e-06, inlier count = 215072
+iter 5: avg loss = 2.0531e-06, inlier count = 215072
+iter 6: avg loss = 2.0531e-06, inlier count = 215072
+iter 7: avg loss = 2.0532e-06, inlier count = 215072
+iter 8: avg loss = 2.0531e-06, inlier count = 215072
+iter 9: avg loss = 2.0532e-06, inlier count = 215072
+Point-based fusion
+updated: 143997, added: 6491, total: 488811
+  trans err vs GT (Z-up viz): 0.0324 m | mean so far: 0.0088 m
+loading frame 35
+Frame-to-model ICP
+iter 0: avg loss = 1.4130e-05, inlier count = 215699
+iter 1: avg loss = 2.1201e-06, inlier count = 217888
+iter 2: avg loss = 2.0945e-06, inlier count = 217851
+iter 3: avg loss = 2.0814e-06, inlier count = 217849
+iter 4: avg loss = 2.0814e-06, inlier count = 217851
+iter 5: avg loss = 2.0814e-06, inlier count = 217851
+iter 6: avg loss = 2.0814e-06, inlier count = 217851
+iter 7: avg loss = 2.0814e-06, inlier count = 217851
+iter 8: avg loss = 2.0814e-06, inlier count = 217851
+iter 9: avg loss = 2.0814e-06, inlier count = 217851
+Point-based fusion
+updated: 145461, added: 6541, total: 495352
+  trans err vs GT (Z-up viz): 0.0330 m | mean so far: 0.0095 m
+loading frame 36
+Frame-to-model ICP
+iter 0: avg loss = 1.6727e-05, inlier count = 219418
+iter 1: avg loss = 2.3103e-06, inlier count = 220558
+iter 2: avg loss = 2.2917e-06, inlier count = 220520
+iter 3: avg loss = 2.2890e-06, inlier count = 220523
+iter 4: avg loss = 2.2890e-06, inlier count = 220524
+iter 5: avg loss = 2.2890e-06, inlier count = 220524
+iter 6: avg loss = 2.2890e-06, inlier count = 220524
+iter 7: avg loss = 2.2890e-06, inlier count = 220524
+iter 8: avg loss = 2.2890e-06, inlier count = 220524
+iter 9: avg loss = 2.2890e-06, inlier count = 220524
+Point-based fusion
+updated: 150689, added: 5646, total: 500998
+  trans err vs GT (Z-up viz): 0.0343 m | mean so far: 0.0102 m
+loading frame 37
+Frame-to-model ICP
+iter 0: avg loss = 4.1269e-05, inlier count = 218995
+iter 1: avg loss = 3.0640e-06, inlier count = 222138
+iter 2: avg loss = 2.9635e-06, inlier count = 222095
+iter 3: avg loss = 2.9553e-06, inlier count = 222088
+iter 4: avg loss = 2.9551e-06, inlier count = 222091
+iter 5: avg loss = 2.9551e-06, inlier count = 222090
+iter 6: avg loss = 2.9551e-06, inlier count = 222090
+iter 7: avg loss = 2.9551e-06, inlier count = 222090
+iter 8: avg loss = 2.9551e-06, inlier count = 222090
+iter 9: avg loss = 2.9551e-06, inlier count = 222090
+Point-based fusion
+updated: 151080, added: 7165, total: 508163
+  trans err vs GT (Z-up viz): 0.0368 m | mean so far: 0.0109 m
+loading frame 38
+Frame-to-model ICP
+iter 0: avg loss = 3.1287e-05, inlier count = 223142
+iter 1: avg loss = 2.4385e-06, inlier count = 225022
+iter 2: avg loss = 2.3711e-06, inlier count = 224991
+iter 3: avg loss = 2.3687e-06, inlier count = 224981
+iter 4: avg loss = 2.3686e-06, inlier count = 224979
+iter 5: avg loss = 2.3686e-06, inlier count = 224979
+iter 6: avg loss = 2.3686e-06, inlier count = 224979
+iter 7: avg loss = 2.3686e-06, inlier count = 224979
+iter 8: avg loss = 2.3686e-06, inlier count = 224979
+iter 9: avg loss = 2.3686e-06, inlier count = 224979
+Point-based fusion
+updated: 152722, added: 6806, total: 514969
+  trans err vs GT (Z-up viz): 0.0386 m | mean so far: 0.0116 m
+loading frame 39
+Frame-to-model ICP
+iter 0: avg loss = 5.2914e-05, inlier count = 222292
+iter 1: avg loss = 2.7154e-06, inlier count = 226623
+iter 2: avg loss = 2.5471e-06, inlier count = 226498
+iter 3: avg loss = 2.5390e-06, inlier count = 226489
+iter 4: avg loss = 2.5387e-06, inlier count = 226490
+iter 5: avg loss = 2.5387e-06, inlier count = 226490
+iter 6: avg loss = 2.5387e-06, inlier count = 226490
+iter 7: avg loss = 2.5387e-06, inlier count = 226490
+iter 8: avg loss = 2.5387e-06, inlier count = 226490
+iter 9: avg loss = 2.5387e-06, inlier count = 226490
+Point-based fusion
+updated: 153225, added: 7734, total: 522703
+  trans err vs GT (Z-up viz): 0.0417 m | mean so far: 0.0124 m
+loading frame 40
+Frame-to-model ICP
+iter 0: avg loss = 7.0083e-05, inlier count = 221078
+iter 1: avg loss = 3.0033e-06, inlier count = 228098
+iter 2: avg loss = 2.8728e-06, inlier count = 228016
+iter 3: avg loss = 2.8585e-06, inlier count = 228009
+iter 4: avg loss = 2.8584e-06, inlier count = 228009
+iter 5: avg loss = 2.8584e-06, inlier count = 228009
+iter 6: avg loss = 2.8584e-06, inlier count = 228009
+iter 7: avg loss = 2.8584e-06, inlier count = 228009
+iter 8: avg loss = 2.8584e-06, inlier count = 228009
+iter 9: avg loss = 2.8584e-06, inlier count = 228009
+Point-based fusion
+updated: 155161, added: 7967, total: 530670
+  trans err vs GT (Z-up viz): 0.0449 m | mean so far: 0.0132 m
+loading frame 41
+Frame-to-model ICP
+iter 0: avg loss = 6.4961e-05, inlier count = 222622
+iter 1: avg loss = 3.2136e-06, inlier count = 229744
+iter 2: avg loss = 3.1186e-06, inlier count = 229672
+iter 3: avg loss = 3.1163e-06, inlier count = 229665
+iter 4: avg loss = 3.1160e-06, inlier count = 229663
+iter 5: avg loss = 3.1160e-06, inlier count = 229663
+iter 6: avg loss = 3.1160e-06, inlier count = 229663
+iter 7: avg loss = 3.1160e-06, inlier count = 229663
+iter 8: avg loss = 3.1160e-06, inlier count = 229663
+iter 9: avg loss = 3.1160e-06, inlier count = 229663
+Point-based fusion
+updated: 155868, added: 8640, total: 539310
+  trans err vs GT (Z-up viz): 0.0476 m | mean so far: 0.0140 m
+loading frame 42
+Frame-to-model ICP
+iter 0: avg loss = 1.1075e-05, inlier count = 231533
+iter 1: avg loss = 2.5915e-06, inlier count = 233130
+iter 2: avg loss = 2.6481e-06, inlier count = 233222
+iter 3: avg loss = 2.6628e-06, inlier count = 233219
+iter 4: avg loss = 2.6634e-06, inlier count = 233224
+iter 5: avg loss = 2.6639e-06, inlier count = 233225
+iter 6: avg loss = 2.6639e-06, inlier count = 233225
+iter 7: avg loss = 2.6639e-06, inlier count = 233225
+iter 8: avg loss = 2.6639e-06, inlier count = 233225
+iter 9: avg loss = 2.6639e-06, inlier count = 233225
+Point-based fusion
+updated: 161353, added: 6338, total: 545648
+  trans err vs GT (Z-up viz): 0.0476 m | mean so far: 0.0148 m
+loading frame 43
+Frame-to-model ICP
+iter 0: avg loss = 1.9272e-05, inlier count = 234657
+iter 1: avg loss = 2.9139e-06, inlier count = 235547
+iter 2: avg loss = 2.9009e-06, inlier count = 235534
+iter 3: avg loss = 2.9001e-06, inlier count = 235530
+iter 4: avg loss = 2.9004e-06, inlier count = 235531
+iter 5: avg loss = 2.9004e-06, inlier count = 235530
+iter 6: avg loss = 2.9004e-06, inlier count = 235530
+iter 7: avg loss = 2.9004e-06, inlier count = 235530
+iter 8: avg loss = 2.9004e-06, inlier count = 235530
+iter 9: avg loss = 2.9004e-06, inlier count = 235530
+Point-based fusion
+updated: 163697, added: 6359, total: 552007
+  trans err vs GT (Z-up viz): 0.0487 m | mean so far: 0.0156 m
+loading frame 44
+Frame-to-model ICP
+iter 0: avg loss = 1.3309e-05, inlier count = 235780
+iter 1: avg loss = 2.8955e-06, inlier count = 237630
+iter 2: avg loss = 2.9312e-06, inlier count = 237675
+iter 3: avg loss = 2.9325e-06, inlier count = 237680
+iter 4: avg loss = 2.9328e-06, inlier count = 237682
+iter 5: avg loss = 2.9328e-06, inlier count = 237682
+iter 6: avg loss = 2.9328e-06, inlier count = 237682
+iter 7: avg loss = 2.9328e-06, inlier count = 237682
+iter 8: avg loss = 2.9328e-06, inlier count = 237682
+iter 9: avg loss = 2.9328e-06, inlier count = 237682
+Point-based fusion
+updated: 165215, added: 5863, total: 557870
+  trans err vs GT (Z-up viz): 0.0489 m | mean so far: 0.0164 m
+loading frame 45
+Frame-to-model ICP
+iter 0: avg loss = 1.0271e-05, inlier count = 236633
+iter 1: avg loss = 3.1384e-06, inlier count = 240977
+iter 2: avg loss = 3.1836e-06, inlier count = 241029
+iter 3: avg loss = 3.1890e-06, inlier count = 241031
+iter 4: avg loss = 3.1889e-06, inlier count = 241033
+iter 5: avg loss = 3.1889e-06, inlier count = 241033
+iter 6: avg loss = 3.1889e-06, inlier count = 241033
+iter 7: avg loss = 3.1889e-06, inlier count = 241033
+iter 8: avg loss = 3.1889e-06, inlier count = 241033
+iter 9: avg loss = 3.1889e-06, inlier count = 241033
+Point-based fusion
+updated: 168616, added: 5307, total: 563177
+  trans err vs GT (Z-up viz): 0.0489 m | mean so far: 0.0171 m
+loading frame 46
+Frame-to-model ICP
+iter 0: avg loss = 9.7367e-06, inlier count = 238832
+iter 1: avg loss = 3.0443e-06, inlier count = 243338
+iter 2: avg loss = 3.0676e-06, inlier count = 243405
+iter 3: avg loss = 3.0719e-06, inlier count = 243408
+iter 4: avg loss = 3.0720e-06, inlier count = 243408
+iter 5: avg loss = 3.0720e-06, inlier count = 243408
+iter 6: avg loss = 3.0720e-06, inlier count = 243408
+iter 7: avg loss = 3.0720e-06, inlier count = 243408
+iter 8: avg loss = 3.0720e-06, inlier count = 243408
+iter 9: avg loss = 3.0720e-06, inlier count = 243408
+Point-based fusion
+updated: 166608, added: 6759, total: 569936
+  trans err vs GT (Z-up viz): 0.0488 m | mean so far: 0.0178 m
+loading frame 47
+Frame-to-model ICP
+iter 0: avg loss = 6.4409e-06, inlier count = 244911
+iter 1: avg loss = 3.0659e-06, inlier count = 246212
+iter 2: avg loss = 3.0795e-06, inlier count = 246247
+iter 3: avg loss = 3.0793e-06, inlier count = 246253
+iter 4: avg loss = 3.0792e-06, inlier count = 246251
+iter 5: avg loss = 3.0792e-06, inlier count = 246252
+iter 6: avg loss = 3.0792e-06, inlier count = 246252
+iter 7: avg loss = 3.0792e-06, inlier count = 246252
+iter 8: avg loss = 3.0792e-06, inlier count = 246252
+iter 9: avg loss = 3.0792e-06, inlier count = 246252
+Point-based fusion
+updated: 170638, added: 5145, total: 575081
+  trans err vs GT (Z-up viz): 0.0490 m | mean so far: 0.0185 m
+loading frame 48
+Frame-to-model ICP
+iter 0: avg loss = 1.1265e-05, inlier count = 248287
+iter 1: avg loss = 3.1257e-06, inlier count = 248360
+iter 2: avg loss = 3.0945e-06, inlier count = 248350
+iter 3: avg loss = 3.0933e-06, inlier count = 248342
+iter 4: avg loss = 3.0933e-06, inlier count = 248340
+iter 5: avg loss = 3.0933e-06, inlier count = 248340
+iter 6: avg loss = 3.0933e-06, inlier count = 248339
+iter 7: avg loss = 3.0933e-06, inlier count = 248339
+iter 8: avg loss = 3.0933e-06, inlier count = 248339
+iter 9: avg loss = 3.0933e-06, inlier count = 248339
+Point-based fusion
+updated: 174223, added: 4390, total: 579471
+  trans err vs GT (Z-up viz): 0.0502 m | mean so far: 0.0191 m
+loading frame 49
+Frame-to-model ICP
+iter 0: avg loss = 3.5933e-05, inlier count = 246230
+iter 1: avg loss = 3.0347e-06, inlier count = 248478
+iter 2: avg loss = 2.9724e-06, inlier count = 248442
+iter 3: avg loss = 2.9653e-06, inlier count = 248442
+iter 4: avg loss = 2.9654e-06, inlier count = 248442
+iter 5: avg loss = 2.9653e-06, inlier count = 248442
+iter 6: avg loss = 2.9653e-06, inlier count = 248442
+iter 7: avg loss = 2.9653e-06, inlier count = 248442
+iter 8: avg loss = 2.9653e-06, inlier count = 248442
+iter 9: avg loss = 2.9653e-06, inlier count = 248442
+Point-based fusion
+updated: 169785, added: 6373, total: 585844
+  trans err vs GT (Z-up viz): 0.0518 m | mean so far: 0.0198 m
+loading frame 50
+Frame-to-model ICP
+iter 0: avg loss = 9.8495e-06, inlier count = 249677
+iter 1: avg loss = 3.1537e-06, inlier count = 252555
+iter 2: avg loss = 3.2126e-06, inlier count = 252612
+iter 3: avg loss = 3.2139e-06, inlier count = 252624
+iter 4: avg loss = 3.2142e-06, inlier count = 252622
+iter 5: avg loss = 3.2142e-06, inlier count = 252622
+iter 6: avg loss = 3.2142e-06, inlier count = 252622
+iter 7: avg loss = 3.2142e-06, inlier count = 252622
+iter 8: avg loss = 3.2142e-06, inlier count = 252622
+iter 9: avg loss = 3.2142e-06, inlier count = 252622
+Point-based fusion
+updated: 173316, added: 5451, total: 591295
+  trans err vs GT (Z-up viz): 0.0512 m | mean so far: 0.0204 m
+loading frame 51
+Frame-to-model ICP
+iter 0: avg loss = 1.4579e-05, inlier count = 249976
+iter 1: avg loss = 3.1240e-06, inlier count = 255071
+iter 2: avg loss = 3.0817e-06, inlier count = 255070
+iter 3: avg loss = 3.0810e-06, inlier count = 255061
+iter 4: avg loss = 3.0801e-06, inlier count = 255059
+iter 5: avg loss = 3.0801e-06, inlier count = 255059
+iter 6: avg loss = 3.0801e-06, inlier count = 255059
+iter 7: avg loss = 3.0801e-06, inlier count = 255059
+iter 8: avg loss = 3.0801e-06, inlier count = 255059
+iter 9: avg loss = 3.0801e-06, inlier count = 255059
+Point-based fusion
+updated: 169409, added: 7202, total: 598497
+  trans err vs GT (Z-up viz): 0.0516 m | mean so far: 0.0210 m
+loading frame 52
+Frame-to-model ICP
+iter 0: avg loss = 2.4212e-05, inlier count = 250615
+iter 1: avg loss = 3.0945e-06, inlier count = 258562
+iter 2: avg loss = 3.0693e-06, inlier count = 258515
+iter 3: avg loss = 3.0641e-06, inlier count = 258518
+iter 4: avg loss = 3.0636e-06, inlier count = 258516
+iter 5: avg loss = 3.0636e-06, inlier count = 258516
+iter 6: avg loss = 3.0636e-06, inlier count = 258516
+iter 7: avg loss = 3.0636e-06, inlier count = 258516
+iter 8: avg loss = 3.0636e-06, inlier count = 258516
+iter 9: avg loss = 3.0636e-06, inlier count = 258516
+Point-based fusion
+updated: 170105, added: 7378, total: 605875
+  trans err vs GT (Z-up viz): 0.0521 m | mean so far: 0.0216 m
+loading frame 53
+Frame-to-model ICP
+iter 0: avg loss = 2.6025e-05, inlier count = 258107
+iter 1: avg loss = 3.2808e-06, inlier count = 260721
+iter 2: avg loss = 3.3346e-06, inlier count = 260853
+iter 3: avg loss = 3.3325e-06, inlier count = 260859
+iter 4: avg loss = 3.3327e-06, inlier count = 260860
+iter 5: avg loss = 3.3327e-06, inlier count = 260861
+iter 6: avg loss = 3.3327e-06, inlier count = 260861
+iter 7: avg loss = 3.3327e-06, inlier count = 260861
+iter 8: avg loss = 3.3327e-06, inlier count = 260861
+iter 9: avg loss = 3.3327e-06, inlier count = 260861
+Point-based fusion
+updated: 174972, added: 5662, total: 611537
+  trans err vs GT (Z-up viz): 0.0525 m | mean so far: 0.0222 m
+loading frame 54
+Frame-to-model ICP
+iter 0: avg loss = 7.8486e-06, inlier count = 259139
+iter 1: avg loss = 3.5294e-06, inlier count = 262859
+iter 2: avg loss = 3.6072e-06, inlier count = 263017
+iter 3: avg loss = 3.6104e-06, inlier count = 263031
+iter 4: avg loss = 3.6105e-06, inlier count = 263031
+iter 5: avg loss = 3.6105e-06, inlier count = 263031
+iter 6: avg loss = 3.6105e-06, inlier count = 263031
+iter 7: avg loss = 3.6105e-06, inlier count = 263031
+iter 8: avg loss = 3.6105e-06, inlier count = 263031
+iter 9: avg loss = 3.6105e-06, inlier count = 263031
+Point-based fusion
+updated: 177516, added: 5260, total: 616797
+  trans err vs GT (Z-up viz): 0.0520 m | mean so far: 0.0228 m
+loading frame 55
+Frame-to-model ICP
+iter 0: avg loss = 8.1321e-05, inlier count = 261901
+iter 1: avg loss = 3.9930e-06, inlier count = 263497
+iter 2: avg loss = 3.8978e-06, inlier count = 263385
+iter 3: avg loss = 3.9000e-06, inlier count = 263358
+iter 4: avg loss = 3.8991e-06, inlier count = 263355
+iter 5: avg loss = 3.8990e-06, inlier count = 263352
+iter 6: avg loss = 3.8991e-06, inlier count = 263353
+iter 7: avg loss = 3.8991e-06, inlier count = 263353
+iter 8: avg loss = 3.8991e-06, inlier count = 263353
+iter 9: avg loss = 3.8991e-06, inlier count = 263353
+Point-based fusion
+updated: 177074, added: 6475, total: 623272
+  trans err vs GT (Z-up viz): 0.0548 m | mean so far: 0.0233 m
+loading frame 56
+Frame-to-model ICP
+iter 0: avg loss = 7.2067e-06, inlier count = 264411
+iter 1: avg loss = 3.7753e-06, inlier count = 265914
+iter 2: avg loss = 3.7868e-06, inlier count = 265965
+iter 3: avg loss = 3.7876e-06, inlier count = 265967
+iter 4: avg loss = 3.7877e-06, inlier count = 265969
+iter 5: avg loss = 3.7877e-06, inlier count = 265969
+iter 6: avg loss = 3.7877e-06, inlier count = 265969
+iter 7: avg loss = 3.7877e-06, inlier count = 265969
+iter 8: avg loss = 3.7877e-06, inlier count = 265969
+iter 9: avg loss = 3.7877e-06, inlier count = 265969
+Point-based fusion
+updated: 180381, added: 5294, total: 628566
+  trans err vs GT (Z-up viz): 0.0551 m | mean so far: 0.0239 m
+loading frame 57
+Frame-to-model ICP
+iter 0: avg loss = 2.7499e-05, inlier count = 261661
+iter 1: avg loss = 3.6395e-06, inlier count = 267411
+iter 2: avg loss = 3.6438e-06, inlier count = 267414
+iter 3: avg loss = 3.6441e-06, inlier count = 267415
+iter 4: avg loss = 3.6448e-06, inlier count = 267417
+iter 5: avg loss = 3.6448e-06, inlier count = 267417
+iter 6: avg loss = 3.6448e-06, inlier count = 267417
+iter 7: avg loss = 3.6448e-06, inlier count = 267416
+iter 8: avg loss = 3.6448e-06, inlier count = 267416
+iter 9: avg loss = 3.6448e-06, inlier count = 267416
+Point-based fusion
+updated: 181317, added: 5549, total: 634115
+  trans err vs GT (Z-up viz): 0.0561 m | mean so far: 0.0245 m
+loading frame 58
+Frame-to-model ICP
+iter 0: avg loss = 4.7789e-05, inlier count = 266424
+iter 1: avg loss = 4.0780e-06, inlier count = 268956
+iter 2: avg loss = 3.9473e-06, inlier count = 268790
+iter 3: avg loss = 3.9245e-06, inlier count = 268770
+iter 4: avg loss = 3.9241e-06, inlier count = 268769
+iter 5: avg loss = 3.9238e-06, inlier count = 268767
+iter 6: avg loss = 3.9238e-06, inlier count = 268767
+iter 7: avg loss = 3.9238e-06, inlier count = 268767
+iter 8: avg loss = 3.9238e-06, inlier count = 268767
+iter 9: avg loss = 3.9238e-06, inlier count = 268767
+Point-based fusion
+updated: 180555, added: 6650, total: 640765
+  trans err vs GT (Z-up viz): 0.0584 m | mean so far: 0.0251 m
+loading frame 59
+Frame-to-model ICP
+iter 0: avg loss = 1.1946e-05, inlier count = 270104
+iter 1: avg loss = 3.6358e-06, inlier count = 272115
+iter 2: avg loss = 3.6026e-06, inlier count = 272073
+iter 3: avg loss = 3.6014e-06, inlier count = 272069
+iter 4: avg loss = 3.6008e-06, inlier count = 272068
+iter 5: avg loss = 3.6008e-06, inlier count = 272068
+iter 6: avg loss = 3.6008e-06, inlier count = 272068
+iter 7: avg loss = 3.6008e-06, inlier count = 272068
+iter 8: avg loss = 3.6008e-06, inlier count = 272068
+iter 9: avg loss = 3.6008e-06, inlier count = 272068
+Point-based fusion
+updated: 185506, added: 5364, total: 646129
+  trans err vs GT (Z-up viz): 0.0587 m | mean so far: 0.0256 m
+loading frame 60
+Frame-to-model ICP
+iter 0: avg loss = 2.8778e-05, inlier count = 269920
+iter 1: avg loss = 3.9530e-06, inlier count = 273851
+iter 2: avg loss = 3.8931e-06, inlier count = 273774
+iter 3: avg loss = 3.8895e-06, inlier count = 273770
+iter 4: avg loss = 3.8901e-06, inlier count = 273770
+iter 5: avg loss = 3.8901e-06, inlier count = 273770
+iter 6: avg loss = 3.8901e-06, inlier count = 273770
+iter 7: avg loss = 3.8901e-06, inlier count = 273770
+iter 8: avg loss = 3.8901e-06, inlier count = 273770
+iter 9: avg loss = 3.8901e-06, inlier count = 273770
+Point-based fusion
+updated: 184453, added: 6011, total: 652140
+  trans err vs GT (Z-up viz): 0.0602 m | mean so far: 0.0262 m
+loading frame 61
+Frame-to-model ICP
+iter 0: avg loss = 1.8677e-04, inlier count = 264144
+iter 1: avg loss = 4.7916e-06, inlier count = 272754
+iter 2: avg loss = 4.2008e-06, inlier count = 272361
+iter 3: avg loss = 4.1473e-06, inlier count = 272301
+iter 4: avg loss = 4.1450e-06, inlier count = 272301
+iter 5: avg loss = 4.1446e-06, inlier count = 272297
+iter 6: avg loss = 4.1446e-06, inlier count = 272296
+iter 7: avg loss = 4.1446e-06, inlier count = 272296
+iter 8: avg loss = 4.1446e-06, inlier count = 272296
+iter 9: avg loss = 4.1446e-06, inlier count = 272296
+Point-based fusion
+updated: 183781, added: 7579, total: 659719
+  trans err vs GT (Z-up viz): 0.0660 m | mean so far: 0.0269 m
+loading frame 62
+Frame-to-model ICP
+iter 0: avg loss = 8.9187e-05, inlier count = 265830
+iter 1: avg loss = 4.2389e-06, inlier count = 273343
+iter 2: avg loss = 3.7598e-06, inlier count = 272921
+iter 3: avg loss = 3.7301e-06, inlier count = 272856
+iter 4: avg loss = 3.7266e-06, inlier count = 272843
+iter 5: avg loss = 3.7277e-06, inlier count = 272842
+iter 6: avg loss = 3.7275e-06, inlier count = 272843
+iter 7: avg loss = 3.7275e-06, inlier count = 272843
+iter 8: avg loss = 3.7275e-06, inlier count = 272843
+iter 9: avg loss = 3.7275e-06, inlier count = 272843
+Point-based fusion
+updated: 184355, added: 7871, total: 667590
+  trans err vs GT (Z-up viz): 0.0702 m | mean so far: 0.0276 m
+loading frame 63
+Frame-to-model ICP
+iter 0: avg loss = 1.1230e-04, inlier count = 262817
+iter 1: avg loss = 4.7001e-06, inlier count = 274883
+iter 2: avg loss = 4.2282e-06, inlier count = 274425
+iter 3: avg loss = 4.1769e-06, inlier count = 274348
+iter 4: avg loss = 4.1728e-06, inlier count = 274325
+iter 5: avg loss = 4.1728e-06, inlier count = 274323
+iter 6: avg loss = 4.1728e-06, inlier count = 274323
+iter 7: avg loss = 4.1728e-06, inlier count = 274323
+iter 8: avg loss = 4.1728e-06, inlier count = 274323
+iter 9: avg loss = 4.1728e-06, inlier count = 274323
+Point-based fusion
+updated: 185020, added: 8124, total: 675714
+  trans err vs GT (Z-up viz): 0.0745 m | mean so far: 0.0283 m
+loading frame 64
+Frame-to-model ICP
+iter 0: avg loss = 1.0564e-04, inlier count = 267182
+iter 1: avg loss = 5.6893e-06, inlier count = 276022
+iter 2: avg loss = 5.1178e-06, inlier count = 275665
+iter 3: avg loss = 5.0857e-06, inlier count = 275608
+iter 4: avg loss = 5.0757e-06, inlier count = 275603
+iter 5: avg loss = 5.0746e-06, inlier count = 275601
+iter 6: avg loss = 5.0745e-06, inlier count = 275601
+iter 7: avg loss = 5.0745e-06, inlier count = 275601
+iter 8: avg loss = 5.0745e-06, inlier count = 275601
+iter 9: avg loss = 5.0745e-06, inlier count = 275601
+Point-based fusion
+updated: 185948, added: 8031, total: 683745
+  trans err vs GT (Z-up viz): 0.0787 m | mean so far: 0.0291 m
+loading frame 65
+Frame-to-model ICP
+iter 0: avg loss = 1.0120e-04, inlier count = 266782
+iter 1: avg loss = 5.9916e-06, inlier count = 276613
+iter 2: avg loss = 5.4570e-06, inlier count = 276324
+iter 3: avg loss = 5.3971e-06, inlier count = 276275
+iter 4: avg loss = 5.3844e-06, inlier count = 276267
+iter 5: avg loss = 5.3817e-06, inlier count = 276264
+iter 6: avg loss = 5.3775e-06, inlier count = 276265
+iter 7: avg loss = 5.3775e-06, inlier count = 276265
+iter 8: avg loss = 5.3775e-06, inlier count = 276265
+iter 9: avg loss = 5.3775e-06, inlier count = 276265
+Point-based fusion
+updated: 184612, added: 8291, total: 692036
+  trans err vs GT (Z-up viz): 0.0826 m | mean so far: 0.0299 m
+loading frame 66
+Frame-to-model ICP
+iter 0: avg loss = 8.8735e-05, inlier count = 273368
+iter 1: avg loss = 6.5689e-06, inlier count = 278315
+iter 2: avg loss = 5.9191e-06, inlier count = 277946
+iter 3: avg loss = 5.8212e-06, inlier count = 277849
+iter 4: avg loss = 5.8036e-06, inlier count = 277835
+iter 5: avg loss = 5.7977e-06, inlier count = 277829
+iter 6: avg loss = 5.7940e-06, inlier count = 277825
+iter 7: avg loss = 5.7938e-06, inlier count = 277826
+iter 8: avg loss = 5.7938e-06, inlier count = 277826
+iter 9: avg loss = 5.7938e-06, inlier count = 277826
+Point-based fusion
+updated: 184753, added: 7947, total: 699983
+  trans err vs GT (Z-up viz): 0.0869 m | mean so far: 0.0308 m
+loading frame 67
+Frame-to-model ICP
+iter 0: avg loss = 8.1401e-05, inlier count = 278268
+iter 1: avg loss = 6.6658e-06, inlier count = 280890
+iter 2: avg loss = 5.9997e-06, inlier count = 280497
+iter 3: avg loss = 5.9184e-06, inlier count = 280382
+iter 4: avg loss = 5.8968e-06, inlier count = 280344
+iter 5: avg loss = 5.8981e-06, inlier count = 280338
+iter 6: avg loss = 5.8978e-06, inlier count = 280334
+iter 7: avg loss = 5.8977e-06, inlier count = 280333
+iter 8: avg loss = 5.8977e-06, inlier count = 280333
+iter 9: avg loss = 5.8977e-06, inlier count = 280333
+Point-based fusion
+updated: 184259, added: 7705, total: 707688
+  trans err vs GT (Z-up viz): 0.0904 m | mean so far: 0.0317 m
+loading frame 68
+Frame-to-model ICP
+iter 0: avg loss = 4.8902e-05, inlier count = 278655
+iter 1: avg loss = 6.4576e-06, inlier count = 282116
+iter 2: avg loss = 6.0964e-06, inlier count = 281808
+iter 3: avg loss = 6.0422e-06, inlier count = 281734
+iter 4: avg loss = 6.0299e-06, inlier count = 281714
+iter 5: avg loss = 6.0270e-06, inlier count = 281708
+iter 6: avg loss = 6.0273e-06, inlier count = 281705
+iter 7: avg loss = 6.0270e-06, inlier count = 281702
+iter 8: avg loss = 6.0270e-06, inlier count = 281701
+iter 9: avg loss = 6.0270e-06, inlier count = 281701
+Point-based fusion
+updated: 183768, added: 7376, total: 715064
+  trans err vs GT (Z-up viz): 0.0930 m | mean so far: 0.0326 m
+loading frame 69
+Frame-to-model ICP
+iter 0: avg loss = 6.9558e-05, inlier count = 279064
+iter 1: avg loss = 6.9333e-06, inlier count = 284197
+iter 2: avg loss = 6.5488e-06, inlier count = 283907
+iter 3: avg loss = 6.5174e-06, inlier count = 283844
+iter 4: avg loss = 6.4996e-06, inlier count = 283837
+iter 5: avg loss = 6.4947e-06, inlier count = 283830
+iter 6: avg loss = 6.4947e-06, inlier count = 283831
+iter 7: avg loss = 6.4947e-06, inlier count = 283831
+iter 8: avg loss = 6.4947e-06, inlier count = 283831
+iter 9: avg loss = 6.4947e-06, inlier count = 283831
+Point-based fusion
+updated: 181819, added: 7642, total: 722706
+  trans err vs GT (Z-up viz): 0.0957 m | mean so far: 0.0335 m
+loading frame 70
+Frame-to-model ICP
+iter 0: avg loss = 4.1375e-05, inlier count = 284438
+iter 1: avg loss = 6.1356e-06, inlier count = 286544
+iter 2: avg loss = 6.0795e-06, inlier count = 286495
+iter 3: avg loss = 6.0682e-06, inlier count = 286489
+iter 4: avg loss = 6.0662e-06, inlier count = 286482
+iter 5: avg loss = 6.0661e-06, inlier count = 286483
+iter 6: avg loss = 6.0661e-06, inlier count = 286483
+iter 7: avg loss = 6.0660e-06, inlier count = 286483
+iter 8: avg loss = 6.0660e-06, inlier count = 286483
+iter 9: avg loss = 6.0660e-06, inlier count = 286483
+Point-based fusion
+updated: 184797, added: 6636, total: 729342
+  trans err vs GT (Z-up viz): 0.0971 m | mean so far: 0.0344 m
+loading frame 71
+Frame-to-model ICP
+iter 0: avg loss = 1.7618e-04, inlier count = 278121
+iter 1: avg loss = 8.6013e-06, inlier count = 287037
+iter 2: avg loss = 7.4990e-06, inlier count = 286506
+iter 3: avg loss = 7.3284e-06, inlier count = 286243
+iter 4: avg loss = 7.3021e-06, inlier count = 286162
+iter 5: avg loss = 7.2972e-06, inlier count = 286135
+iter 6: avg loss = 7.2971e-06, inlier count = 286127
+iter 7: avg loss = 7.2977e-06, inlier count = 286130
+iter 8: avg loss = 7.2976e-06, inlier count = 286128
+iter 9: avg loss = 7.2976e-06, inlier count = 286128
+Point-based fusion
+updated: 181165, added: 8107, total: 737449
+  trans err vs GT (Z-up viz): 0.1020 m | mean so far: 0.0353 m
+loading frame 72
+Frame-to-model ICP
+iter 0: avg loss = 6.8926e-05, inlier count = 283797
+iter 1: avg loss = 8.4637e-06, inlier count = 289185
+iter 2: avg loss = 7.7337e-06, inlier count = 288832
+iter 3: avg loss = 7.5862e-06, inlier count = 288642
+iter 4: avg loss = 7.5467e-06, inlier count = 288552
+iter 5: avg loss = 7.5205e-06, inlier count = 288533
+iter 6: avg loss = 7.5186e-06, inlier count = 288531
+iter 7: avg loss = 7.5142e-06, inlier count = 288528
+iter 8: avg loss = 7.5144e-06, inlier count = 288526
+iter 9: avg loss = 7.5144e-06, inlier count = 288526
+Point-based fusion
+updated: 182307, added: 7755, total: 745204
+  trans err vs GT (Z-up viz): 0.1047 m | mean so far: 0.0363 m
+loading frame 73
+Frame-to-model ICP
+iter 0: avg loss = 4.3513e-05, inlier count = 287606
+iter 1: avg loss = 8.3494e-06, inlier count = 292052
+iter 2: avg loss = 7.9648e-06, inlier count = 291671
+iter 3: avg loss = 7.8656e-06, inlier count = 291538
+iter 4: avg loss = 7.8414e-06, inlier count = 291500
+iter 5: avg loss = 7.8321e-06, inlier count = 291488
+iter 6: avg loss = 7.8318e-06, inlier count = 291486
+iter 7: avg loss = 7.8321e-06, inlier count = 291486
+iter 8: avg loss = 7.8319e-06, inlier count = 291485
+iter 9: avg loss = 7.8321e-06, inlier count = 291485
+Point-based fusion
+updated: 183676, added: 7314, total: 752518
+  trans err vs GT (Z-up viz): 0.1060 m | mean so far: 0.0373 m
+loading frame 74
+Frame-to-model ICP
+iter 0: avg loss = 3.3105e-05, inlier count = 290026
+iter 1: avg loss = 7.9255e-06, inlier count = 295229
+iter 2: avg loss = 7.7048e-06, inlier count = 295015
+iter 3: avg loss = 7.6543e-06, inlier count = 294957
+iter 4: avg loss = 7.6381e-06, inlier count = 294935
+iter 5: avg loss = 7.6325e-06, inlier count = 294921
+iter 6: avg loss = 7.6271e-06, inlier count = 294920
+iter 7: avg loss = 7.6270e-06, inlier count = 294921
+iter 8: avg loss = 7.6268e-06, inlier count = 294921
+iter 9: avg loss = 7.6268e-06, inlier count = 294921
+Point-based fusion
+updated: 186646, added: 6608, total: 759126
+  trans err vs GT (Z-up viz): 0.1068 m | mean so far: 0.0382 m
+loading frame 75
+Frame-to-model ICP
+iter 0: avg loss = 1.2665e-04, inlier count = 277729
+iter 1: avg loss = 9.2677e-06, inlier count = 298554
+iter 2: avg loss = 8.1948e-06, inlier count = 298150
+iter 3: avg loss = 8.0182e-06, inlier count = 297933
+iter 4: avg loss = 7.9641e-06, inlier count = 297893
+iter 5: avg loss = 7.9482e-06, inlier count = 297870
+iter 6: avg loss = 7.9390e-06, inlier count = 297860
+iter 7: avg loss = 7.9346e-06, inlier count = 297858
+iter 8: avg loss = 7.9338e-06, inlier count = 297855
+iter 9: avg loss = 7.9338e-06, inlier count = 297855
+Point-based fusion
+updated: 187456, added: 7232, total: 766358
+  trans err vs GT (Z-up viz): 0.1086 m | mean so far: 0.0391 m
+loading frame 76
+Frame-to-model ICP
+iter 0: avg loss = 1.4916e-04, inlier count = 276242
+iter 1: avg loss = 1.0278e-05, inlier count = 301026
+iter 2: avg loss = 8.7418e-06, inlier count = 300741
+iter 3: avg loss = 8.4144e-06, inlier count = 300483
+iter 4: avg loss = 8.3283e-06, inlier count = 300398
+iter 5: avg loss = 8.3101e-06, inlier count = 300378
+iter 6: avg loss = 8.2955e-06, inlier count = 300368
+iter 7: avg loss = 8.2919e-06, inlier count = 300369
+iter 8: avg loss = 8.2914e-06, inlier count = 300371
+iter 9: avg loss = 8.2914e-06, inlier count = 300371
+Point-based fusion
+updated: 190215, added: 7024, total: 773382
+  trans err vs GT (Z-up viz): 0.1111 m | mean so far: 0.0401 m
+loading frame 77
+Frame-to-model ICP
+iter 0: avg loss = 1.1933e-04, inlier count = 289280
+iter 1: avg loss = 1.0072e-05, inlier count = 303514
+iter 2: avg loss = 8.6210e-06, inlier count = 303422
+iter 3: avg loss = 8.2782e-06, inlier count = 303044
+iter 4: avg loss = 8.2071e-06, inlier count = 302957
+iter 5: avg loss = 8.1908e-06, inlier count = 302917
+iter 6: avg loss = 8.1894e-06, inlier count = 302901
+iter 7: avg loss = 8.1886e-06, inlier count = 302900
+iter 8: avg loss = 8.1885e-06, inlier count = 302896
+iter 9: avg loss = 8.1883e-06, inlier count = 302896
+Point-based fusion
+updated: 193223, added: 7018, total: 780400
+  trans err vs GT (Z-up viz): 0.1132 m | mean so far: 0.0410 m
+loading frame 78
+Frame-to-model ICP
+iter 0: avg loss = 1.3970e-04, inlier count = 292806
+iter 1: avg loss = 1.0848e-05, inlier count = 305315
+iter 2: avg loss = 9.0130e-06, inlier count = 305094
+iter 3: avg loss = 8.5714e-06, inlier count = 304711
+iter 4: avg loss = 8.4749e-06, inlier count = 304553
+iter 5: avg loss = 8.4483e-06, inlier count = 304500
+iter 6: avg loss = 8.4380e-06, inlier count = 304471
+iter 7: avg loss = 8.4376e-06, inlier count = 304462
+iter 8: avg loss = 8.4360e-06, inlier count = 304461
+iter 9: avg loss = 8.4361e-06, inlier count = 304460
+Point-based fusion
+updated: 195582, added: 7182, total: 787582
+  trans err vs GT (Z-up viz): 0.1176 m | mean so far: 0.0420 m
+loading frame 79
+Frame-to-model ICP
+iter 0: avg loss = 1.4769e-04, inlier count = 287084
+iter 1: avg loss = 1.1223e-05, inlier count = 306161
+iter 2: avg loss = 9.3662e-06, inlier count = 305663
+iter 3: avg loss = 9.0388e-06, inlier count = 305295
+iter 4: avg loss = 8.9518e-06, inlier count = 305162
+iter 5: avg loss = 8.9159e-06, inlier count = 305094
+iter 6: avg loss = 8.9069e-06, inlier count = 305075
+iter 7: avg loss = 8.9025e-06, inlier count = 305062
+iter 8: avg loss = 8.8980e-06, inlier count = 305052
+iter 9: avg loss = 8.8975e-06, inlier count = 305047
+Point-based fusion
+updated: 197167, added: 7272, total: 794854
+  trans err vs GT (Z-up viz): 0.1220 m | mean so far: 0.0430 m
+loading frame 80
+Frame-to-model ICP
+iter 0: avg loss = 1.6810e-04, inlier count = 289561
+iter 1: avg loss = 1.2460e-05, inlier count = 306479
+iter 2: avg loss = 1.0462e-05, inlier count = 306031
+iter 3: avg loss = 9.9864e-06, inlier count = 305596
+iter 4: avg loss = 9.8377e-06, inlier count = 305426
+iter 5: avg loss = 9.8128e-06, inlier count = 305363
+iter 6: avg loss = 9.7987e-06, inlier count = 305328
+iter 7: avg loss = 9.7946e-06, inlier count = 305319
+iter 8: avg loss = 9.7922e-06, inlier count = 305313
+iter 9: avg loss = 9.7910e-06, inlier count = 305309
+Point-based fusion
+updated: 199527, added: 7693, total: 802547
+  trans err vs GT (Z-up viz): 0.1272 m | mean so far: 0.0441 m
+loading frame 81
+Frame-to-model ICP
+iter 0: avg loss = 1.7286e-04, inlier count = 302291
+iter 1: avg loss = 1.3741e-05, inlier count = 307326
+iter 2: avg loss = 1.1224e-05, inlier count = 306950
+iter 3: avg loss = 1.0720e-05, inlier count = 306275
+iter 4: avg loss = 1.0623e-05, inlier count = 306013
+iter 5: avg loss = 1.0597e-05, inlier count = 305939
+iter 6: avg loss = 1.0587e-05, inlier count = 305922
+iter 7: avg loss = 1.0586e-05, inlier count = 305916
+iter 8: avg loss = 1.0586e-05, inlier count = 305910
+iter 9: avg loss = 1.0586e-05, inlier count = 305909
+Point-based fusion
+updated: 200893, added: 7833, total: 810380
+  trans err vs GT (Z-up viz): 0.1336 m | mean so far: 0.0452 m
+loading frame 82
+Frame-to-model ICP
+iter 0: avg loss = 1.9487e-04, inlier count = 302665
+iter 1: avg loss = 1.3093e-05, inlier count = 308743
+iter 2: avg loss = 1.0934e-05, inlier count = 307658
+iter 3: avg loss = 1.0561e-05, inlier count = 306983
+iter 4: avg loss = 1.0448e-05, inlier count = 306718
+iter 5: avg loss = 1.0419e-05, inlier count = 306637
+iter 6: avg loss = 1.0417e-05, inlier count = 306624
+iter 7: avg loss = 1.0410e-05, inlier count = 306618
+iter 8: avg loss = 1.0410e-05, inlier count = 306619
+iter 9: avg loss = 1.0409e-05, inlier count = 306618
+Point-based fusion
+updated: 203386, added: 7894, total: 818274
+  trans err vs GT (Z-up viz): 0.1397 m | mean so far: 0.0463 m
+loading frame 83
+Frame-to-model ICP
+iter 0: avg loss = 1.9817e-04, inlier count = 304521
+iter 1: avg loss = 1.4230e-05, inlier count = 309713
+iter 2: avg loss = 1.2320e-05, inlier count = 308161
+iter 3: avg loss = 1.1944e-05, inlier count = 307533
+iter 4: avg loss = 1.1851e-05, inlier count = 307295
+iter 5: avg loss = 1.1827e-05, inlier count = 307235
+iter 6: avg loss = 1.1817e-05, inlier count = 307213
+iter 7: avg loss = 1.1811e-05, inlier count = 307205
+iter 8: avg loss = 1.1810e-05, inlier count = 307205
+iter 9: avg loss = 1.1811e-05, inlier count = 307206
+Point-based fusion
+updated: 205552, added: 8002, total: 826276
+  trans err vs GT (Z-up viz): 0.1466 m | mean so far: 0.0475 m
+loading frame 84
+Frame-to-model ICP
+iter 0: avg loss = 2.9478e-04, inlier count = 299534
+iter 1: avg loss = 1.6130e-05, inlier count = 309941
+iter 2: avg loss = 1.4047e-05, inlier count = 308135
+iter 3: avg loss = 1.3627e-05, inlier count = 307482
+iter 4: avg loss = 1.3545e-05, inlier count = 307276
+iter 5: avg loss = 1.3518e-05, inlier count = 307231
+iter 6: avg loss = 1.3512e-05, inlier count = 307215
+iter 7: avg loss = 1.3511e-05, inlier count = 307211
+iter 8: avg loss = 1.3511e-05, inlier count = 307211
+iter 9: avg loss = 1.3511e-05, inlier count = 307210
+Point-based fusion
+updated: 207341, added: 8314, total: 834590
+  trans err vs GT (Z-up viz): 0.1547 m | mean so far: 0.0488 m
+loading frame 85
+Frame-to-model ICP
+iter 0: avg loss = 2.9036e-04, inlier count = 301600
+iter 1: avg loss = 1.8119e-05, inlier count = 309796
+iter 2: avg loss = 1.5156e-05, inlier count = 307556
+iter 3: avg loss = 1.4630e-05, inlier count = 306853
+iter 4: avg loss = 1.4492e-05, inlier count = 306675
+iter 5: avg loss = 1.4457e-05, inlier count = 306631
+iter 6: avg loss = 1.4448e-05, inlier count = 306624
+iter 7: avg loss = 1.4443e-05, inlier count = 306620
+iter 8: avg loss = 1.4443e-05, inlier count = 306624
+iter 9: avg loss = 1.4442e-05, inlier count = 306622
+Point-based fusion
+updated: 209257, added: 8601, total: 843191
+  trans err vs GT (Z-up viz): 0.1642 m | mean so far: 0.0502 m
+loading frame 86
+Frame-to-model ICP
+iter 0: avg loss = 1.5124e-04, inlier count = 307436
+iter 1: avg loss = 1.7106e-05, inlier count = 310687
+iter 2: avg loss = 1.5877e-05, inlier count = 309603
+iter 3: avg loss = 1.5711e-05, inlier count = 309346
+iter 4: avg loss = 1.5655e-05, inlier count = 309294
+iter 5: avg loss = 1.5650e-05, inlier count = 309281
+iter 6: avg loss = 1.5649e-05, inlier count = 309274
+iter 7: avg loss = 1.5649e-05, inlier count = 309273
+iter 8: avg loss = 1.5648e-05, inlier count = 309274
+iter 9: avg loss = 1.5648e-05, inlier count = 309272
+Point-based fusion
+updated: 211332, added: 8480, total: 851671
+  trans err vs GT (Z-up viz): 0.1695 m | mean so far: 0.0516 m
+loading frame 87
+Frame-to-model ICP
+iter 0: avg loss = 1.6095e-04, inlier count = 305507
+iter 1: avg loss = 1.7308e-05, inlier count = 312457
+iter 2: avg loss = 1.6491e-05, inlier count = 311632
+iter 3: avg loss = 1.6365e-05, inlier count = 311455
+iter 4: avg loss = 1.6348e-05, inlier count = 311427
+iter 5: avg loss = 1.6347e-05, inlier count = 311419
+iter 6: avg loss = 1.6347e-05, inlier count = 311418
+iter 7: avg loss = 1.6347e-05, inlier count = 311418
+iter 8: avg loss = 1.6347e-05, inlier count = 311418
+iter 9: avg loss = 1.6347e-05, inlier count = 311418
+Point-based fusion
+updated: 213481, added: 8234, total: 859905
+  trans err vs GT (Z-up viz): 0.1749 m | mean so far: 0.0530 m
+loading frame 88
+Frame-to-model ICP
+iter 0: avg loss = 1.2089e-04, inlier count = 311340
+iter 1: avg loss = 1.8029e-05, inlier count = 314849
+iter 2: avg loss = 1.7137e-05, inlier count = 314067
+iter 3: avg loss = 1.7022e-05, inlier count = 313907
+iter 4: avg loss = 1.6995e-05, inlier count = 313870
+iter 5: avg loss = 1.6995e-05, inlier count = 313861
+iter 6: avg loss = 1.6994e-05, inlier count = 313861
+iter 7: avg loss = 1.6994e-05, inlier count = 313861
+iter 8: avg loss = 1.6994e-05, inlier count = 313861
+iter 9: avg loss = 1.6994e-05, inlier count = 313861
+Point-based fusion
+updated: 214026, added: 8176, total: 868081
+  trans err vs GT (Z-up viz): 0.1799 m | mean so far: 0.0544 m
+loading frame 89
+Frame-to-model ICP
+iter 0: avg loss = 9.8584e-05, inlier count = 315353
+iter 1: avg loss = 1.8438e-05, inlier count = 317508
+iter 2: avg loss = 1.7881e-05, inlier count = 316945
+iter 3: avg loss = 1.7795e-05, inlier count = 316809
+iter 4: avg loss = 1.7773e-05, inlier count = 316787
+iter 5: avg loss = 1.7769e-05, inlier count = 316774
+iter 6: avg loss = 1.7770e-05, inlier count = 316775
+iter 7: avg loss = 1.7769e-05, inlier count = 316776
+iter 8: avg loss = 1.7769e-05, inlier count = 316776
+iter 9: avg loss = 1.7769e-05, inlier count = 316776
+Point-based fusion
+updated: 216413, added: 7856, total: 875937
+  trans err vs GT (Z-up viz): 0.1838 m | mean so far: 0.0559 m
+loading frame 90
+Frame-to-model ICP
+iter 0: avg loss = 1.6218e-04, inlier count = 307682
+iter 1: avg loss = 1.9590e-05, inlier count = 318347
+iter 2: avg loss = 1.8981e-05, inlier count = 317867
+iter 3: avg loss = 1.8913e-05, inlier count = 317769
+iter 4: avg loss = 1.8902e-05, inlier count = 317757
+iter 5: avg loss = 1.8896e-05, inlier count = 317757
+iter 6: avg loss = 1.8896e-05, inlier count = 317757
+iter 7: avg loss = 1.8896e-05, inlier count = 317758
+iter 8: avg loss = 1.8896e-05, inlier count = 317758
+iter 9: avg loss = 1.8896e-05, inlier count = 317758
+Point-based fusion
+updated: 216234, added: 8185, total: 884122
+  trans err vs GT (Z-up viz): 0.1893 m | mean so far: 0.0574 m
+loading frame 91
+Frame-to-model ICP
+iter 0: avg loss = 1.7916e-04, inlier count = 310726
+iter 1: avg loss = 2.1292e-05, inlier count = 319276
+iter 2: avg loss = 2.0596e-05, inlier count = 318640
+iter 3: avg loss = 2.0545e-05, inlier count = 318476
+iter 4: avg loss = 2.0529e-05, inlier count = 318446
+iter 5: avg loss = 2.0528e-05, inlier count = 318447
+iter 6: avg loss = 2.0527e-05, inlier count = 318447
+iter 7: avg loss = 2.0527e-05, inlier count = 318446
+iter 8: avg loss = 2.0527e-05, inlier count = 318446
+iter 9: avg loss = 2.0527e-05, inlier count = 318446
+Point-based fusion
+updated: 216227, added: 8724, total: 892846
+  trans err vs GT (Z-up viz): 0.1957 m | mean so far: 0.0589 m
+loading frame 92
+Frame-to-model ICP
+iter 0: avg loss = 7.7131e-05, inlier count = 322786
+iter 1: avg loss = 2.1179e-05, inlier count = 322041
+iter 2: avg loss = 2.0775e-05, inlier count = 321705
+iter 3: avg loss = 2.0680e-05, inlier count = 321647
+iter 4: avg loss = 2.0646e-05, inlier count = 321618
+iter 5: avg loss = 2.0645e-05, inlier count = 321618
+iter 6: avg loss = 2.0644e-05, inlier count = 321618
+iter 7: avg loss = 2.0644e-05, inlier count = 321618
+iter 8: avg loss = 2.0644e-05, inlier count = 321616
+iter 9: avg loss = 2.0644e-05, inlier count = 321617
+Point-based fusion
+updated: 217379, added: 8296, total: 901142
+  trans err vs GT (Z-up viz): 0.1987 m | mean so far: 0.0604 m
+loading frame 93
+Frame-to-model ICP
+iter 0: avg loss = 8.9022e-05, inlier count = 324327
+iter 1: avg loss = 2.1769e-05, inlier count = 324804
+iter 2: avg loss = 2.1320e-05, inlier count = 324247
+iter 3: avg loss = 2.1258e-05, inlier count = 324131
+iter 4: avg loss = 2.1249e-05, inlier count = 324116
+iter 5: avg loss = 2.1246e-05, inlier count = 324116
+iter 6: avg loss = 2.1246e-05, inlier count = 324113
+iter 7: avg loss = 2.1244e-05, inlier count = 324111
+iter 8: avg loss = 2.1245e-05, inlier count = 324111
+iter 9: avg loss = 2.1245e-05, inlier count = 324111
+Point-based fusion
+updated: 217773, added: 8530, total: 909672
+  trans err vs GT (Z-up viz): 0.2026 m | mean so far: 0.0619 m
+loading frame 94
+Frame-to-model ICP
+iter 0: avg loss = 1.0036e-04, inlier count = 321660
+iter 1: avg loss = 2.2796e-05, inlier count = 326023
+iter 2: avg loss = 2.2272e-05, inlier count = 325616
+iter 3: avg loss = 2.2177e-05, inlier count = 325496
+iter 4: avg loss = 2.2169e-05, inlier count = 325485
+iter 5: avg loss = 2.2169e-05, inlier count = 325480
+iter 6: avg loss = 2.2169e-05, inlier count = 325481
+iter 7: avg loss = 2.2169e-05, inlier count = 325481
+iter 8: avg loss = 2.2169e-05, inlier count = 325481
+iter 9: avg loss = 2.2169e-05, inlier count = 325481
+Point-based fusion
+updated: 218878, added: 8492, total: 918164
+  trans err vs GT (Z-up viz): 0.2071 m | mean so far: 0.0635 m
+loading frame 95
+Frame-to-model ICP
+iter 0: avg loss = 1.1753e-04, inlier count = 329584
+iter 1: avg loss = 2.3997e-05, inlier count = 328321
+iter 2: avg loss = 2.3143e-05, inlier count = 327791
+iter 3: avg loss = 2.3065e-05, inlier count = 327672
+iter 4: avg loss = 2.3045e-05, inlier count = 327650
+iter 5: avg loss = 2.3041e-05, inlier count = 327642
+iter 6: avg loss = 2.3036e-05, inlier count = 327638
+iter 7: avg loss = 2.3037e-05, inlier count = 327638
+iter 8: avg loss = 2.3037e-05, inlier count = 327638
+iter 9: avg loss = 2.3037e-05, inlier count = 327638
+Point-based fusion
+updated: 219703, added: 8316, total: 926480
+  trans err vs GT (Z-up viz): 0.2119 m | mean so far: 0.0650 m
+loading frame 96
+Frame-to-model ICP
+iter 0: avg loss = 4.8450e-05, inlier count = 331022
+iter 1: avg loss = 2.3864e-05, inlier count = 330359
+iter 2: avg loss = 2.3493e-05, inlier count = 329915
+iter 3: avg loss = 2.3433e-05, inlier count = 329831
+iter 4: avg loss = 2.3412e-05, inlier count = 329806
+iter 5: avg loss = 2.3407e-05, inlier count = 329801
+iter 6: avg loss = 2.3408e-05, inlier count = 329801
+iter 7: avg loss = 2.3408e-05, inlier count = 329800
+iter 8: avg loss = 2.3408e-05, inlier count = 329800
+iter 9: avg loss = 2.3408e-05, inlier count = 329800
+Point-based fusion
+updated: 221293, added: 8070, total: 934550
+  trans err vs GT (Z-up viz): 0.2146 m | mean so far: 0.0666 m
+loading frame 97
+Frame-to-model ICP
+iter 0: avg loss = 1.6224e-04, inlier count = 322750
+iter 1: avg loss = 2.5313e-05, inlier count = 331618
+iter 2: avg loss = 2.4606e-05, inlier count = 330873
+iter 3: avg loss = 2.4528e-05, inlier count = 330717
+iter 4: avg loss = 2.4521e-05, inlier count = 330706
+iter 5: avg loss = 2.4517e-05, inlier count = 330700
+iter 6: avg loss = 2.4517e-05, inlier count = 330700
+iter 7: avg loss = 2.4517e-05, inlier count = 330700
+iter 8: avg loss = 2.4517e-05, inlier count = 330701
+iter 9: avg loss = 2.4517e-05, inlier count = 330701
+Point-based fusion
+updated: 221598, added: 8467, total: 943017
+  trans err vs GT (Z-up viz): 0.2205 m | mean so far: 0.0682 m
+loading frame 98
+Frame-to-model ICP
+iter 0: avg loss = 5.9600e-05, inlier count = 329271
+iter 1: avg loss = 2.4685e-05, inlier count = 332710
+iter 2: avg loss = 2.4351e-05, inlier count = 332412
+iter 3: avg loss = 2.4281e-05, inlier count = 332357
+iter 4: avg loss = 2.4253e-05, inlier count = 332346
+iter 5: avg loss = 2.4249e-05, inlier count = 332337
+iter 6: avg loss = 2.4253e-05, inlier count = 332338
+iter 7: avg loss = 2.4253e-05, inlier count = 332339
+iter 8: avg loss = 2.4253e-05, inlier count = 332339
+iter 9: avg loss = 2.4253e-05, inlier count = 332339
+Point-based fusion
+updated: 221173, added: 8321, total: 951338
+  trans err vs GT (Z-up viz): 0.2232 m | mean so far: 0.0698 m
+loading frame 99
+Frame-to-model ICP
+iter 0: avg loss = 6.1751e-05, inlier count = 337096
+iter 1: avg loss = 2.5079e-05, inlier count = 335004
+iter 2: avg loss = 2.4432e-05, inlier count = 334570
+iter 3: avg loss = 2.4308e-05, inlier count = 334462
+iter 4: avg loss = 2.4293e-05, inlier count = 334437
+iter 5: avg loss = 2.4297e-05, inlier count = 334438
+iter 6: avg loss = 2.4297e-05, inlier count = 334438
+iter 7: avg loss = 2.4297e-05, inlier count = 334438
+iter 8: avg loss = 2.4297e-05, inlier count = 334438
+iter 9: avg loss = 2.4297e-05, inlier count = 334438
+Point-based fusion
+updated: 221566, added: 8063, total: 959401
+  trans err vs GT (Z-up viz): 0.2269 m | mean so far: 0.0714 m
+loading frame 100
+Frame-to-model ICP
+iter 0: avg loss = 7.1295e-05, inlier count = 338813
+iter 1: avg loss = 2.5423e-05, inlier count = 336575
+iter 2: avg loss = 2.4605e-05, inlier count = 335931
+iter 3: avg loss = 2.4549e-05, inlier count = 335796
+iter 4: avg loss = 2.4535e-05, inlier count = 335777
+iter 5: avg loss = 2.4536e-05, inlier count = 335769
+iter 6: avg loss = 2.4536e-05, inlier count = 335769
+iter 7: avg loss = 2.4537e-05, inlier count = 335766
+iter 8: avg loss = 2.4536e-05, inlier count = 335766
+iter 9: avg loss = 2.4536e-05, inlier count = 335766
+Point-based fusion
+updated: 222146, added: 8080, total: 967481
+  trans err vs GT (Z-up viz): 0.2312 m | mean so far: 0.0730 m
+loading frame 101
+Frame-to-model ICP
+iter 0: avg loss = 3.8322e-05, inlier count = 337860
+iter 1: avg loss = 2.4655e-05, inlier count = 338376
+iter 2: avg loss = 2.4438e-05, inlier count = 338119
+iter 3: avg loss = 2.4358e-05, inlier count = 338059
+iter 4: avg loss = 2.4351e-05, inlier count = 338056
+iter 5: avg loss = 2.4351e-05, inlier count = 338055
+iter 6: avg loss = 2.4351e-05, inlier count = 338054
+iter 7: avg loss = 2.4351e-05, inlier count = 338053
+iter 8: avg loss = 2.4351e-05, inlier count = 338053
+iter 9: avg loss = 2.4351e-05, inlier count = 338053
+Point-based fusion
+updated: 226624, added: 6821, total: 974302
+  trans err vs GT (Z-up viz): 0.2330 m | mean so far: 0.0745 m
+loading frame 102
+Frame-to-model ICP
+iter 0: avg loss = 9.7068e-05, inlier count = 339824
+iter 1: avg loss = 2.5520e-05, inlier count = 338564
+iter 2: avg loss = 2.4548e-05, inlier count = 338003
+iter 3: avg loss = 2.4445e-05, inlier count = 337868
+iter 4: avg loss = 2.4425e-05, inlier count = 337836
+iter 5: avg loss = 2.4427e-05, inlier count = 337827
+iter 6: avg loss = 2.4427e-05, inlier count = 337827
+iter 7: avg loss = 2.4427e-05, inlier count = 337827
+iter 8: avg loss = 2.4427e-05, inlier count = 337827
+iter 9: avg loss = 2.4427e-05, inlier count = 337827
+Point-based fusion
+updated: 222938, added: 8218, total: 982520
+  trans err vs GT (Z-up viz): 0.2384 m | mean so far: 0.0761 m
+loading frame 103
+Frame-to-model ICP
+iter 0: avg loss = 1.2898e-04, inlier count = 340206
+iter 1: avg loss = 2.6928e-05, inlier count = 338525
+iter 2: avg loss = 2.5981e-05, inlier count = 337643
+iter 3: avg loss = 2.5903e-05, inlier count = 337487
+iter 4: avg loss = 2.5892e-05, inlier count = 337468
+iter 5: avg loss = 2.5889e-05, inlier count = 337468
+iter 6: avg loss = 2.5889e-05, inlier count = 337469
+iter 7: avg loss = 2.5889e-05, inlier count = 337468
+iter 8: avg loss = 2.5889e-05, inlier count = 337468
+iter 9: avg loss = 2.5889e-05, inlier count = 337468
+Point-based fusion
+updated: 222064, added: 8266, total: 990786
+  trans err vs GT (Z-up viz): 0.2446 m | mean so far: 0.0778 m
+loading frame 104
+Frame-to-model ICP
+iter 0: avg loss = 8.5130e-05, inlier count = 337149
+iter 1: avg loss = 2.6872e-05, inlier count = 339612
+iter 2: avg loss = 2.6404e-05, inlier count = 339126
+iter 3: avg loss = 2.6375e-05, inlier count = 339048
+iter 4: avg loss = 2.6369e-05, inlier count = 339033
+iter 5: avg loss = 2.6369e-05, inlier count = 339030
+iter 6: avg loss = 2.6369e-05, inlier count = 339031
+iter 7: avg loss = 2.6369e-05, inlier count = 339031
+iter 8: avg loss = 2.6369e-05, inlier count = 339031
+iter 9: avg loss = 2.6369e-05, inlier count = 339031
+Point-based fusion
+updated: 222410, added: 8292, total: 999078
+  trans err vs GT (Z-up viz): 0.2484 m | mean so far: 0.0794 m
+loading frame 105
+Frame-to-model ICP
+iter 0: avg loss = 8.0581e-05, inlier count = 343919
+iter 1: avg loss = 2.7919e-05, inlier count = 341436
+iter 2: avg loss = 2.7296e-05, inlier count = 340845
+iter 3: avg loss = 2.7277e-05, inlier count = 340739
+iter 4: avg loss = 2.7277e-05, inlier count = 340723
+iter 5: avg loss = 2.7277e-05, inlier count = 340723
+iter 6: avg loss = 2.7277e-05, inlier count = 340722
+iter 7: avg loss = 2.7277e-05, inlier count = 340722
+iter 8: avg loss = 2.7277e-05, inlier count = 340722
+iter 9: avg loss = 2.7277e-05, inlier count = 340722
+Point-based fusion
+updated: 223250, added: 8070, total: 1007148
+  trans err vs GT (Z-up viz): 0.2528 m | mean so far: 0.0811 m
+loading frame 106
+Frame-to-model ICP
+iter 0: avg loss = 5.8161e-05, inlier count = 345347
+iter 1: avg loss = 2.6978e-05, inlier count = 344331
+iter 2: avg loss = 2.6713e-05, inlier count = 344037
+iter 3: avg loss = 2.6697e-05, inlier count = 343988
+iter 4: avg loss = 2.6693e-05, inlier count = 343984
+iter 5: avg loss = 2.6693e-05, inlier count = 343984
+iter 6: avg loss = 2.6693e-05, inlier count = 343986
+iter 7: avg loss = 2.6693e-05, inlier count = 343986
+iter 8: avg loss = 2.6693e-05, inlier count = 343986
+iter 9: avg loss = 2.6693e-05, inlier count = 343986
+Point-based fusion
+updated: 225746, added: 7619, total: 1014767
+  trans err vs GT (Z-up viz): 0.2549 m | mean so far: 0.0827 m
+loading frame 107
+Frame-to-model ICP
+iter 0: avg loss = 9.7285e-05, inlier count = 342583
+iter 1: avg loss = 2.8557e-05, inlier count = 344333
+iter 2: avg loss = 2.8237e-05, inlier count = 343989
+iter 3: avg loss = 2.8209e-05, inlier count = 343954
+iter 4: avg loss = 2.8207e-05, inlier count = 343954
+iter 5: avg loss = 2.8210e-05, inlier count = 343952
+iter 6: avg loss = 2.8210e-05, inlier count = 343952
+iter 7: avg loss = 2.8210e-05, inlier count = 343952
+iter 8: avg loss = 2.8210e-05, inlier count = 343952
+iter 9: avg loss = 2.8210e-05, inlier count = 343952
+Point-based fusion
+updated: 224368, added: 7773, total: 1022540
+  trans err vs GT (Z-up viz): 0.2594 m | mean so far: 0.0844 m
+loading frame 108
+Frame-to-model ICP
+iter 0: avg loss = 1.0126e-04, inlier count = 342327
+iter 1: avg loss = 2.9584e-05, inlier count = 345621
+iter 2: avg loss = 2.9054e-05, inlier count = 345052
+iter 3: avg loss = 2.9030e-05, inlier count = 344995
+iter 4: avg loss = 2.9028e-05, inlier count = 344988
+iter 5: avg loss = 2.9026e-05, inlier count = 344987
+iter 6: avg loss = 2.9029e-05, inlier count = 344987
+iter 7: avg loss = 2.9025e-05, inlier count = 344987
+iter 8: avg loss = 2.9029e-05, inlier count = 344987
+iter 9: avg loss = 2.9025e-05, inlier count = 344987
+Point-based fusion
+updated: 224817, added: 7977, total: 1030517
+  trans err vs GT (Z-up viz): 0.2634 m | mean so far: 0.0860 m
+loading frame 109
+Frame-to-model ICP
+iter 0: avg loss = 1.5737e-04, inlier count = 344311
+iter 1: avg loss = 3.2468e-05, inlier count = 345312
+iter 2: avg loss = 3.1510e-05, inlier count = 344487
+iter 3: avg loss = 3.1459e-05, inlier count = 344398
+iter 4: avg loss = 3.1446e-05, inlier count = 344381
+iter 5: avg loss = 3.1446e-05, inlier count = 344377
+iter 6: avg loss = 3.1446e-05, inlier count = 344377
+iter 7: avg loss = 3.1446e-05, inlier count = 344377
+iter 8: avg loss = 3.1446e-05, inlier count = 344377
+iter 9: avg loss = 3.1446e-05, inlier count = 344377
+Point-based fusion
+updated: 223367, added: 8313, total: 1038830
+  trans err vs GT (Z-up viz): 0.2701 m | mean so far: 0.0877 m
+loading frame 110
+Frame-to-model ICP
+iter 0: avg loss = 1.4684e-04, inlier count = 341612
+iter 1: avg loss = 3.4464e-05, inlier count = 345119
+iter 2: avg loss = 3.3651e-05, inlier count = 344443
+iter 3: avg loss = 3.3596e-05, inlier count = 344311
+iter 4: avg loss = 3.3585e-05, inlier count = 344303
+iter 5: avg loss = 3.3587e-05, inlier count = 344302
+iter 6: avg loss = 3.3587e-05, inlier count = 344302
+iter 7: avg loss = 3.3587e-05, inlier count = 344303
+iter 8: avg loss = 3.3587e-05, inlier count = 344303
+iter 9: avg loss = 3.3587e-05, inlier count = 344303
+Point-based fusion
+updated: 223442, added: 8511, total: 1047341
+  trans err vs GT (Z-up viz): 0.2759 m | mean so far: 0.0894 m
+loading frame 111
+Frame-to-model ICP
+iter 0: avg loss = 2.0109e-04, inlier count = 335804
+iter 1: avg loss = 3.7340e-05, inlier count = 344064
+iter 2: avg loss = 3.6293e-05, inlier count = 343233
+iter 3: avg loss = 3.6242e-05, inlier count = 343129
+iter 4: avg loss = 3.6234e-05, inlier count = 343111
+iter 5: avg loss = 3.6234e-05, inlier count = 343111
+iter 6: avg loss = 3.6234e-05, inlier count = 343111
+iter 7: avg loss = 3.6234e-05, inlier count = 343110
+iter 8: avg loss = 3.6234e-05, inlier count = 343110
+iter 9: avg loss = 3.6234e-05, inlier count = 343110
+Point-based fusion
+updated: 222523, added: 8974, total: 1056315
+  trans err vs GT (Z-up viz): 0.2828 m | mean so far: 0.0912 m
+loading frame 112
+Frame-to-model ICP
+iter 0: avg loss = 1.6429e-04, inlier count = 341652
+iter 1: avg loss = 3.9134e-05, inlier count = 344144
+iter 2: avg loss = 3.8317e-05, inlier count = 343345
+iter 3: avg loss = 3.8290e-05, inlier count = 343241
+iter 4: avg loss = 3.8288e-05, inlier count = 343224
+iter 5: avg loss = 3.8288e-05, inlier count = 343225
+iter 6: avg loss = 3.8288e-05, inlier count = 343225
+iter 7: avg loss = 3.8287e-05, inlier count = 343225
+iter 8: avg loss = 3.8288e-05, inlier count = 343225
+iter 9: avg loss = 3.8287e-05, inlier count = 343225
+Point-based fusion
+updated: 223242, added: 8982, total: 1065297
+  trans err vs GT (Z-up viz): 0.2888 m | mean so far: 0.0929 m
+loading frame 113
+Frame-to-model ICP
+iter 0: avg loss = 2.3174e-04, inlier count = 338252
+iter 1: avg loss = 4.3662e-05, inlier count = 342904
+iter 2: avg loss = 4.2228e-05, inlier count = 341840
+iter 3: avg loss = 4.2176e-05, inlier count = 341754
+iter 4: avg loss = 4.2169e-05, inlier count = 341743
+iter 5: avg loss = 4.2173e-05, inlier count = 341743
+iter 6: avg loss = 4.2173e-05, inlier count = 341744
+iter 7: avg loss = 4.2173e-05, inlier count = 341743
+iter 8: avg loss = 4.2173e-05, inlier count = 341744
+iter 9: avg loss = 4.2173e-05, inlier count = 341744
+Point-based fusion
+updated: 221580, added: 9606, total: 1074903
+  trans err vs GT (Z-up viz): 0.2967 m | mean so far: 0.0947 m
+loading frame 114
+Frame-to-model ICP
+iter 0: avg loss = 1.5774e-04, inlier count = 333852
+iter 1: avg loss = 4.3739e-05, inlier count = 343619
+iter 2: avg loss = 4.3193e-05, inlier count = 343150
+iter 3: avg loss = 4.3164e-05, inlier count = 343116
+iter 4: avg loss = 4.3163e-05, inlier count = 343110
+iter 5: avg loss = 4.3161e-05, inlier count = 343107
+iter 6: avg loss = 4.3161e-05, inlier count = 343107
+iter 7: avg loss = 4.3161e-05, inlier count = 343107
+iter 8: avg loss = 4.3161e-05, inlier count = 343107
+iter 9: avg loss = 4.3161e-05, inlier count = 343107
+Point-based fusion
+updated: 223274, added: 9279, total: 1084182
+  trans err vs GT (Z-up viz): 0.3013 m | mean so far: 0.0965 m
+loading frame 115
+Frame-to-model ICP
+iter 0: avg loss = 2.2974e-04, inlier count = 335550
+iter 1: avg loss = 4.8215e-05, inlier count = 342452
+iter 2: avg loss = 4.6707e-05, inlier count = 341431
+iter 3: avg loss = 4.6610e-05, inlier count = 341315
+iter 4: avg loss = 4.6611e-05, inlier count = 341305
+iter 5: avg loss = 4.6611e-05, inlier count = 341304
+iter 6: avg loss = 4.6611e-05, inlier count = 341304
+iter 7: avg loss = 4.6611e-05, inlier count = 341304
+iter 8: avg loss = 4.6611e-05, inlier count = 341304
+iter 9: avg loss = 4.6611e-05, inlier count = 341304
+Point-based fusion
+updated: 221596, added: 9923, total: 1094105
+  trans err vs GT (Z-up viz): 0.3088 m | mean so far: 0.0984 m
+loading frame 116
+Frame-to-model ICP
+iter 0: avg loss = 1.2386e-04, inlier count = 346487
+iter 1: avg loss = 4.9860e-05, inlier count = 343577
+iter 2: avg loss = 4.9076e-05, inlier count = 342890
+iter 3: avg loss = 4.9017e-05, inlier count = 342798
+iter 4: avg loss = 4.9009e-05, inlier count = 342779
+iter 5: avg loss = 4.9007e-05, inlier count = 342779
+iter 6: avg loss = 4.9007e-05, inlier count = 342779
+iter 7: avg loss = 4.9007e-05, inlier count = 342779
+iter 8: avg loss = 4.9007e-05, inlier count = 342779
+iter 9: avg loss = 4.9007e-05, inlier count = 342779
+Point-based fusion
+updated: 222247, added: 9582, total: 1103687
+  trans err vs GT (Z-up viz): 0.3136 m | mean so far: 0.1002 m
+loading frame 117
+Frame-to-model ICP
+iter 0: avg loss = 1.5861e-04, inlier count = 345412
+iter 1: avg loss = 5.2569e-05, inlier count = 345334
+iter 2: avg loss = 5.1443e-05, inlier count = 344557
+iter 3: avg loss = 5.1413e-05, inlier count = 344477
+iter 4: avg loss = 5.1399e-05, inlier count = 344461
+iter 5: avg loss = 5.1398e-05, inlier count = 344456
+iter 6: avg loss = 5.1398e-05, inlier count = 344456
+iter 7: avg loss = 5.1398e-05, inlier count = 344459
+iter 8: avg loss = 5.1398e-05, inlier count = 344458
+iter 9: avg loss = 5.1398e-05, inlier count = 344458
+Point-based fusion
+updated: 223427, added: 9516, total: 1113203
+  trans err vs GT (Z-up viz): 0.3192 m | mean so far: 0.1021 m
+loading frame 118
+Frame-to-model ICP
+iter 0: avg loss = 1.5696e-04, inlier count = 349363
+iter 1: avg loss = 5.5320e-05, inlier count = 345794
+iter 2: avg loss = 5.4175e-05, inlier count = 344807
+iter 3: avg loss = 5.4066e-05, inlier count = 344698
+iter 4: avg loss = 5.4035e-05, inlier count = 344666
+iter 5: avg loss = 5.4034e-05, inlier count = 344656
+iter 6: avg loss = 5.4034e-05, inlier count = 344656
+iter 7: avg loss = 5.4034e-05, inlier count = 344656
+iter 8: avg loss = 5.4034e-05, inlier count = 344656
+iter 9: avg loss = 5.4034e-05, inlier count = 344656
+Point-based fusion
+updated: 223273, added: 9585, total: 1122788
+  trans err vs GT (Z-up viz): 0.3250 m | mean so far: 0.1040 m
+loading frame 119
+Frame-to-model ICP
+iter 0: avg loss = 1.6122e-04, inlier count = 349906
+iter 1: avg loss = 5.8537e-05, inlier count = 346157
+iter 2: avg loss = 5.6989e-05, inlier count = 345570
+iter 3: avg loss = 5.6892e-05, inlier count = 345517
+iter 4: avg loss = 5.6842e-05, inlier count = 345500
+iter 5: avg loss = 5.6816e-05, inlier count = 345498
+iter 6: avg loss = 5.6817e-05, inlier count = 345500
+iter 7: avg loss = 5.6818e-05, inlier count = 345498
+iter 8: avg loss = 5.6818e-05, inlier count = 345499
+iter 9: avg loss = 5.6818e-05, inlier count = 345499
+Point-based fusion
+updated: 223685, added: 9640, total: 1132428
+  trans err vs GT (Z-up viz): 0.3308 m | mean so far: 0.1059 m
+loading frame 120
+Frame-to-model ICP
+iter 0: avg loss = 1.7046e-04, inlier count = 349018
+iter 1: avg loss = 6.1806e-05, inlier count = 345695
+iter 2: avg loss = 6.0531e-05, inlier count = 345088
+iter 3: avg loss = 6.0368e-05, inlier count = 344951
+iter 4: avg loss = 6.0349e-05, inlier count = 344940
+iter 5: avg loss = 6.0345e-05, inlier count = 344939
+iter 6: avg loss = 6.0346e-05, inlier count = 344938
+iter 7: avg loss = 6.0351e-05, inlier count = 344939
+iter 8: avg loss = 6.0345e-05, inlier count = 344939
+iter 9: avg loss = 6.0346e-05, inlier count = 344938
+Point-based fusion
+updated: 222776, added: 9665, total: 1142093
+  trans err vs GT (Z-up viz): 0.3359 m | mean so far: 0.1078 m
+loading frame 121
+Frame-to-model ICP
+iter 0: avg loss = 1.4107e-04, inlier count = 346920
+iter 1: avg loss = 6.2540e-05, inlier count = 347547
+iter 2: avg loss = 6.1481e-05, inlier count = 346757
+iter 3: avg loss = 6.1391e-05, inlier count = 346678
+iter 4: avg loss = 6.1370e-05, inlier count = 346669
+iter 5: avg loss = 6.1370e-05, inlier count = 346665
+iter 6: avg loss = 6.1370e-05, inlier count = 346665
+iter 7: avg loss = 6.1370e-05, inlier count = 346664
+iter 8: avg loss = 6.1370e-05, inlier count = 346664
+iter 9: avg loss = 6.1370e-05, inlier count = 346664
+Point-based fusion
+updated: 224301, added: 9287, total: 1151380
+  trans err vs GT (Z-up viz): 0.3397 m | mean so far: 0.1097 m
+loading frame 122
+Frame-to-model ICP
+iter 0: avg loss = 1.2685e-04, inlier count = 352531
+iter 1: avg loss = 6.4634e-05, inlier count = 348757
+iter 2: avg loss = 6.3235e-05, inlier count = 348039
+iter 3: avg loss = 6.3098e-05, inlier count = 347979
+iter 4: avg loss = 6.3086e-05, inlier count = 347962
+iter 5: avg loss = 6.3085e-05, inlier count = 347962
+iter 6: avg loss = 6.3084e-05, inlier count = 347962
+iter 7: avg loss = 6.3084e-05, inlier count = 347962
+iter 8: avg loss = 6.3084e-05, inlier count = 347962
+iter 9: avg loss = 6.3084e-05, inlier count = 347962
+Point-based fusion
+updated: 224897, added: 9377, total: 1160757
+  trans err vs GT (Z-up viz): 0.3440 m | mean so far: 0.1117 m
+loading frame 123
+Frame-to-model ICP
+iter 0: avg loss = 2.1763e-04, inlier count = 345212
+iter 1: avg loss = 6.9445e-05, inlier count = 349007
+iter 2: avg loss = 6.7396e-05, inlier count = 348255
+iter 3: avg loss = 6.7184e-05, inlier count = 348077
+iter 4: avg loss = 6.7107e-05, inlier count = 348056
+iter 5: avg loss = 6.7111e-05, inlier count = 348048
+iter 6: avg loss = 6.7110e-05, inlier count = 348046
+iter 7: avg loss = 6.7110e-05, inlier count = 348046
+iter 8: avg loss = 6.7110e-05, inlier count = 348046
+iter 9: avg loss = 6.7110e-05, inlier count = 348046
+Point-based fusion
+updated: 224300, added: 9470, total: 1170227
+  trans err vs GT (Z-up viz): 0.3496 m | mean so far: 0.1136 m
+loading frame 124
+Frame-to-model ICP
+iter 0: avg loss = 1.8103e-04, inlier count = 351249
+iter 1: avg loss = 7.1925e-05, inlier count = 349743
+iter 2: avg loss = 6.9556e-05, inlier count = 348937
+iter 3: avg loss = 6.9258e-05, inlier count = 348765
+iter 4: avg loss = 6.9196e-05, inlier count = 348722
+iter 5: avg loss = 6.9191e-05, inlier count = 348712
+iter 6: avg loss = 6.9195e-05, inlier count = 348715
+iter 7: avg loss = 6.9196e-05, inlier count = 348714
+iter 8: avg loss = 6.9196e-05, inlier count = 348713
+iter 9: avg loss = 6.9196e-05, inlier count = 348713
+Point-based fusion
+updated: 223773, added: 9549, total: 1179776
+  trans err vs GT (Z-up viz): 0.3552 m | mean so far: 0.1155 m
+loading frame 125
+Frame-to-model ICP
+iter 0: avg loss = 1.5223e-04, inlier count = 353836
+iter 1: avg loss = 7.3497e-05, inlier count = 350536
+iter 2: avg loss = 7.1165e-05, inlier count = 349802
+iter 3: avg loss = 7.0872e-05, inlier count = 349672
+iter 4: avg loss = 7.0817e-05, inlier count = 349632
+iter 5: avg loss = 7.0818e-05, inlier count = 349628
+iter 6: avg loss = 7.0818e-05, inlier count = 349630
+iter 7: avg loss = 7.0817e-05, inlier count = 349629
+iter 8: avg loss = 7.0818e-05, inlier count = 349629
+iter 9: avg loss = 7.0817e-05, inlier count = 349629
+Point-based fusion
+updated: 224276, added: 9297, total: 1189073
+  trans err vs GT (Z-up viz): 0.3599 m | mean so far: 0.1175 m
+loading frame 126
+Frame-to-model ICP
+iter 0: avg loss = 2.2133e-04, inlier count = 353252
+iter 1: avg loss = 7.8915e-05, inlier count = 349878
+iter 2: avg loss = 7.5438e-05, inlier count = 348344
+iter 3: avg loss = 7.4992e-05, inlier count = 348080
+iter 4: avg loss = 7.4920e-05, inlier count = 348038
+iter 5: avg loss = 7.4889e-05, inlier count = 348033
+iter 6: avg loss = 7.4894e-05, inlier count = 348032
+iter 7: avg loss = 7.4893e-05, inlier count = 348030
+iter 8: avg loss = 7.4893e-05, inlier count = 348031
+iter 9: avg loss = 7.4893e-05, inlier count = 348031
+Point-based fusion
+updated: 221927, added: 10229, total: 1199302
+  trans err vs GT (Z-up viz): 0.3665 m | mean so far: 0.1195 m
+loading frame 127
+Frame-to-model ICP
+iter 0: avg loss = 1.9473e-04, inlier count = 355277
+iter 1: avg loss = 8.1078e-05, inlier count = 350341
+iter 2: avg loss = 7.7600e-05, inlier count = 349108
+iter 3: avg loss = 7.7214e-05, inlier count = 348971
+iter 4: avg loss = 7.7139e-05, inlier count = 348936
+iter 5: avg loss = 7.7122e-05, inlier count = 348936
+iter 6: avg loss = 7.7121e-05, inlier count = 348932
+iter 7: avg loss = 7.7121e-05, inlier count = 348930
+iter 8: avg loss = 7.7121e-05, inlier count = 348930
+iter 9: avg loss = 7.7121e-05, inlier count = 348930
+Point-based fusion
+updated: 222134, added: 9760, total: 1209062
+  trans err vs GT (Z-up viz): 0.3722 m | mean so far: 0.1215 m
+loading frame 128
+Frame-to-model ICP
+iter 0: avg loss = 1.7518e-04, inlier count = 355564
+iter 1: avg loss = 8.2442e-05, inlier count = 350985
+iter 2: avg loss = 7.8909e-05, inlier count = 349508
+iter 3: avg loss = 7.8417e-05, inlier count = 349241
+iter 4: avg loss = 7.8329e-05, inlier count = 349175
+iter 5: avg loss = 7.8300e-05, inlier count = 349156
+iter 6: avg loss = 7.8299e-05, inlier count = 349156
+iter 7: avg loss = 7.8302e-05, inlier count = 349156
+iter 8: avg loss = 7.8302e-05, inlier count = 349156
+iter 9: avg loss = 7.8302e-05, inlier count = 349156
+Point-based fusion
+updated: 221642, added: 9946, total: 1219008
+  trans err vs GT (Z-up viz): 0.3773 m | mean so far: 0.1235 m
+loading frame 129
+Frame-to-model ICP
+iter 0: avg loss = 2.2260e-04, inlier count = 354124
+iter 1: avg loss = 8.8055e-05, inlier count = 350306
+iter 2: avg loss = 8.3343e-05, inlier count = 348698
+iter 3: avg loss = 8.2715e-05, inlier count = 348365
+iter 4: avg loss = 8.2612e-05, inlier count = 348306
+iter 5: avg loss = 8.2600e-05, inlier count = 348301
+iter 6: avg loss = 8.2593e-05, inlier count = 348299
+iter 7: avg loss = 8.2593e-05, inlier count = 348299
+iter 8: avg loss = 8.2593e-05, inlier count = 348299
+iter 9: avg loss = 8.2593e-05, inlier count = 348299
+Point-based fusion
+updated: 220570, added: 10504, total: 1229512
+  trans err vs GT (Z-up viz): 0.3832 m | mean so far: 0.1255 m
+loading frame 130
+Frame-to-model ICP
+iter 0: avg loss = 2.2758e-04, inlier count = 353810
+iter 1: avg loss = 8.9791e-05, inlier count = 351151
+iter 2: avg loss = 8.5359e-05, inlier count = 349593
+iter 3: avg loss = 8.4753e-05, inlier count = 349239
+iter 4: avg loss = 8.4654e-05, inlier count = 349166
+iter 5: avg loss = 8.4647e-05, inlier count = 349157
+iter 6: avg loss = 8.4641e-05, inlier count = 349150
+iter 7: avg loss = 8.4641e-05, inlier count = 349152
+iter 8: avg loss = 8.4641e-05, inlier count = 349151
+iter 9: avg loss = 8.4641e-05, inlier count = 349151
+Point-based fusion
+updated: 221581, added: 10305, total: 1239817
+  trans err vs GT (Z-up viz): 0.3889 m | mean so far: 0.1275 m
+loading frame 131
+Frame-to-model ICP
+iter 0: avg loss = 2.7542e-04, inlier count = 356573
+iter 1: avg loss = 9.0548e-05, inlier count = 352939
+iter 2: avg loss = 8.6402e-05, inlier count = 351546
+iter 3: avg loss = 8.5818e-05, inlier count = 351232
+iter 4: avg loss = 8.5721e-05, inlier count = 351164
+iter 5: avg loss = 8.5702e-05, inlier count = 351156
+iter 6: avg loss = 8.5707e-05, inlier count = 351150
+iter 7: avg loss = 8.5706e-05, inlier count = 351150
+iter 8: avg loss = 8.5707e-05, inlier count = 351150
+iter 9: avg loss = 8.5706e-05, inlier count = 351150
+Point-based fusion
+updated: 222256, added: 10115, total: 1249932
+  trans err vs GT (Z-up viz): 0.3949 m | mean so far: 0.1295 m
+loading frame 132
+Frame-to-model ICP
+iter 0: avg loss = 3.0798e-04, inlier count = 353825
+iter 1: avg loss = 9.9929e-05, inlier count = 351334
+iter 2: avg loss = 9.2529e-05, inlier count = 349178
+iter 3: avg loss = 9.1501e-05, inlier count = 348765
+iter 4: avg loss = 9.1301e-05, inlier count = 348667
+iter 5: avg loss = 9.1294e-05, inlier count = 348662
+iter 6: avg loss = 9.1295e-05, inlier count = 348664
+iter 7: avg loss = 9.1296e-05, inlier count = 348663
+iter 8: avg loss = 9.1296e-05, inlier count = 348663
+iter 9: avg loss = 9.1296e-05, inlier count = 348663
+Point-based fusion
+updated: 219946, added: 10892, total: 1260824
+  trans err vs GT (Z-up viz): 0.4029 m | mean so far: 0.1316 m
+loading frame 133
+Frame-to-model ICP
+iter 0: avg loss = 3.9112e-04, inlier count = 347559
+iter 1: avg loss = 1.1132e-04, inlier count = 349612
+iter 2: avg loss = 9.8912e-05, inlier count = 347145
+iter 3: avg loss = 9.7696e-05, inlier count = 346565
+iter 4: avg loss = 9.7545e-05, inlier count = 346442
+iter 5: avg loss = 9.7548e-05, inlier count = 346418
+iter 6: avg loss = 9.7540e-05, inlier count = 346419
+iter 7: avg loss = 9.7540e-05, inlier count = 346418
+iter 8: avg loss = 9.7540e-05, inlier count = 346418
+iter 9: avg loss = 9.7540e-05, inlier count = 346418
+Point-based fusion
+updated: 218081, added: 11470, total: 1272294
+  trans err vs GT (Z-up viz): 0.4128 m | mean so far: 0.1337 m
+loading frame 134
+Frame-to-model ICP
+iter 0: avg loss = 3.4892e-04, inlier count = 350405
+iter 1: avg loss = 1.1115e-04, inlier count = 350191
+iter 2: avg loss = 1.0271e-04, inlier count = 348416
+iter 3: avg loss = 1.0160e-04, inlier count = 348006
+iter 4: avg loss = 1.0143e-04, inlier count = 347905
+iter 5: avg loss = 1.0137e-04, inlier count = 347875
+iter 6: avg loss = 1.0137e-04, inlier count = 347871
+iter 7: avg loss = 1.0137e-04, inlier count = 347871
+iter 8: avg loss = 1.0137e-04, inlier count = 347871
+iter 9: avg loss = 1.0137e-04, inlier count = 347871
+Point-based fusion
+updated: 218579, added: 10866, total: 1283160
+  trans err vs GT (Z-up viz): 0.4205 m | mean so far: 0.1359 m
+loading frame 135
+Frame-to-model ICP
+iter 0: avg loss = 2.9032e-04, inlier count = 352332
+iter 1: avg loss = 1.1335e-04, inlier count = 349863
+iter 2: avg loss = 1.0597e-04, inlier count = 348111
+iter 3: avg loss = 1.0503e-04, inlier count = 347701
+iter 4: avg loss = 1.0488e-04, inlier count = 347637
+iter 5: avg loss = 1.0484e-04, inlier count = 347626
+iter 6: avg loss = 1.0483e-04, inlier count = 347621
+iter 7: avg loss = 1.0483e-04, inlier count = 347620
+iter 8: avg loss = 1.0483e-04, inlier count = 347620
+iter 9: avg loss = 1.0483e-04, inlier count = 347620
+Point-based fusion
+updated: 217848, added: 10897, total: 1294057
+  trans err vs GT (Z-up viz): 0.4275 m | mean so far: 0.1380 m
+loading frame 136
+Frame-to-model ICP
+iter 0: avg loss = 2.1201e-04, inlier count = 354349
+iter 1: avg loss = 1.1150e-04, inlier count = 350718
+iter 2: avg loss = 1.0640e-04, inlier count = 349191
+iter 3: avg loss = 1.0570e-04, inlier count = 348851
+iter 4: avg loss = 1.0562e-04, inlier count = 348798
+iter 5: avg loss = 1.0559e-04, inlier count = 348789
+iter 6: avg loss = 1.0559e-04, inlier count = 348791
+iter 7: avg loss = 1.0558e-04, inlier count = 348791
+iter 8: avg loss = 1.0558e-04, inlier count = 348790
+iter 9: avg loss = 1.0558e-04, inlier count = 348790
+Point-based fusion
+updated: 218157, added: 10606, total: 1304663
+  trans err vs GT (Z-up viz): 0.4325 m | mean so far: 0.1402 m
+loading frame 137
+Frame-to-model ICP
+iter 0: avg loss = 3.0134e-04, inlier count = 353382
+iter 1: avg loss = 1.1630e-04, inlier count = 352354
+iter 2: avg loss = 1.0922e-04, inlier count = 350506
+iter 3: avg loss = 1.0846e-04, inlier count = 350152
+iter 4: avg loss = 1.0833e-04, inlier count = 350076
+iter 5: avg loss = 1.0831e-04, inlier count = 350051
+iter 6: avg loss = 1.0830e-04, inlier count = 350056
+iter 7: avg loss = 1.0830e-04, inlier count = 350056
+iter 8: avg loss = 1.0830e-04, inlier count = 350056
+iter 9: avg loss = 1.0830e-04, inlier count = 350056
+Point-based fusion
+updated: 218535, added: 10301, total: 1314964
+  trans err vs GT (Z-up viz): 0.4392 m | mean so far: 0.1424 m
+loading frame 138
+Frame-to-model ICP
+iter 0: avg loss = 3.7308e-04, inlier count = 349716
+iter 1: avg loss = 1.2181e-04, inlier count = 352059
+iter 2: avg loss = 1.1271e-04, inlier count = 350057
+iter 3: avg loss = 1.1202e-04, inlier count = 349733
+iter 4: avg loss = 1.1189e-04, inlier count = 349653
+iter 5: avg loss = 1.1190e-04, inlier count = 349639
+iter 6: avg loss = 1.1190e-04, inlier count = 349636
+iter 7: avg loss = 1.1190e-04, inlier count = 349636
+iter 8: avg loss = 1.1190e-04, inlier count = 349636
+iter 9: avg loss = 1.1190e-04, inlier count = 349636
+Point-based fusion
+updated: 217461, added: 10796, total: 1325760
+  trans err vs GT (Z-up viz): 0.4468 m | mean so far: 0.1446 m
+loading frame 139
+Frame-to-model ICP
+iter 0: avg loss = 4.4133e-04, inlier count = 332661
+iter 1: avg loss = 1.3084e-04, inlier count = 350620
+iter 2: avg loss = 1.1813e-04, inlier count = 348103
+iter 3: avg loss = 1.1688e-04, inlier count = 347625
+iter 4: avg loss = 1.1669e-04, inlier count = 347537
+iter 5: avg loss = 1.1667e-04, inlier count = 347529
+iter 6: avg loss = 1.1667e-04, inlier count = 347529
+iter 7: avg loss = 1.1667e-04, inlier count = 347529
+iter 8: avg loss = 1.1667e-04, inlier count = 347529
+iter 9: avg loss = 1.1667e-04, inlier count = 347529
+Point-based fusion
+updated: 216648, added: 11314, total: 1337074
+  trans err vs GT (Z-up viz): 0.4554 m | mean so far: 0.1468 m
+loading frame 140
+Frame-to-model ICP
+iter 0: avg loss = 4.2302e-04, inlier count = 340359
+iter 1: avg loss = 1.3073e-04, inlier count = 349379
+iter 2: avg loss = 1.2120e-04, inlier count = 347526
+iter 3: avg loss = 1.2054e-04, inlier count = 347178
+iter 4: avg loss = 1.2043e-04, inlier count = 347099
+iter 5: avg loss = 1.2042e-04, inlier count = 347095
+iter 6: avg loss = 1.2042e-04, inlier count = 347098
+iter 7: avg loss = 1.2042e-04, inlier count = 347098
+iter 8: avg loss = 1.2042e-04, inlier count = 347098
+iter 9: avg loss = 1.2042e-04, inlier count = 347098
+Point-based fusion
+updated: 218368, added: 11366, total: 1348440
+  trans err vs GT (Z-up viz): 0.4632 m | mean so far: 0.1491 m
+loading frame 141
+Frame-to-model ICP
+iter 0: avg loss = 3.8732e-04, inlier count = 344264
+iter 1: avg loss = 1.3877e-04, inlier count = 348040
+iter 2: avg loss = 1.2741e-04, inlier count = 345963
+iter 3: avg loss = 1.2676e-04, inlier count = 345687
+iter 4: avg loss = 1.2670e-04, inlier count = 345651
+iter 5: avg loss = 1.2669e-04, inlier count = 345641
+iter 6: avg loss = 1.2669e-04, inlier count = 345640
+iter 7: avg loss = 1.2669e-04, inlier count = 345640
+iter 8: avg loss = 1.2669e-04, inlier count = 345640
+iter 9: avg loss = 1.2669e-04, inlier count = 345640
+Point-based fusion
+updated: 216559, added: 11903, total: 1360343
+  trans err vs GT (Z-up viz): 0.4709 m | mean so far: 0.1514 m
+loading frame 142
+Frame-to-model ICP
+iter 0: avg loss = 3.3683e-04, inlier count = 345273
+iter 1: avg loss = 1.3651e-04, inlier count = 348094
+iter 2: avg loss = 1.2975e-04, inlier count = 346459
+iter 3: avg loss = 1.2936e-04, inlier count = 346260
+iter 4: avg loss = 1.2932e-04, inlier count = 346238
+iter 5: avg loss = 1.2931e-04, inlier count = 346227
+iter 6: avg loss = 1.2930e-04, inlier count = 346226
+iter 7: avg loss = 1.2930e-04, inlier count = 346224
+iter 8: avg loss = 1.2930e-04, inlier count = 346224
+iter 9: avg loss = 1.2930e-04, inlier count = 346224
+Point-based fusion
+updated: 216676, added: 11557, total: 1371900
+  trans err vs GT (Z-up viz): 0.4770 m | mean so far: 0.1537 m
+loading frame 143
+Frame-to-model ICP
+iter 0: avg loss = 3.0359e-04, inlier count = 350944
+iter 1: avg loss = 1.3932e-04, inlier count = 349280
+iter 2: avg loss = 1.3285e-04, inlier count = 347777
+iter 3: avg loss = 1.3253e-04, inlier count = 347595
+iter 4: avg loss = 1.3250e-04, inlier count = 347545
+iter 5: avg loss = 1.3250e-04, inlier count = 347540
+iter 6: avg loss = 1.3251e-04, inlier count = 347538
+iter 7: avg loss = 1.3251e-04, inlier count = 347538
+iter 8: avg loss = 1.3251e-04, inlier count = 347538
+iter 9: avg loss = 1.3251e-04, inlier count = 347538
+Point-based fusion
+updated: 217646, added: 11338, total: 1383238
+  trans err vs GT (Z-up viz): 0.4828 m | mean so far: 0.1560 m
+loading frame 144
+Frame-to-model ICP
+iter 0: avg loss = 2.7798e-04, inlier count = 352544
+iter 1: avg loss = 1.3987e-04, inlier count = 350679
+iter 2: avg loss = 1.3498e-04, inlier count = 349549
+iter 3: avg loss = 1.3457e-04, inlier count = 349372
+iter 4: avg loss = 1.3454e-04, inlier count = 349352
+iter 5: avg loss = 1.3454e-04, inlier count = 349342
+iter 6: avg loss = 1.3454e-04, inlier count = 349344
+iter 7: avg loss = 1.3454e-04, inlier count = 349344
+iter 8: avg loss = 1.3454e-04, inlier count = 349344
+iter 9: avg loss = 1.3454e-04, inlier count = 349344
+Point-based fusion
+updated: 217518, added: 11093, total: 1394331
+  trans err vs GT (Z-up viz): 0.4879 m | mean so far: 0.1583 m
+loading frame 145
+Frame-to-model ICP
+iter 0: avg loss = 2.9367e-04, inlier count = 354520
+iter 1: avg loss = 1.4500e-04, inlier count = 351751
+iter 2: avg loss = 1.3883e-04, inlier count = 350419
+iter 3: avg loss = 1.3831e-04, inlier count = 350180
+iter 4: avg loss = 1.3820e-04, inlier count = 350154
+iter 5: avg loss = 1.3819e-04, inlier count = 350146
+iter 6: avg loss = 1.3818e-04, inlier count = 350147
+iter 7: avg loss = 1.3818e-04, inlier count = 350147
+iter 8: avg loss = 1.3818e-04, inlier count = 350147
+iter 9: avg loss = 1.3818e-04, inlier count = 350146
+Point-based fusion
+updated: 217902, added: 11000, total: 1405331
+  trans err vs GT (Z-up viz): 0.4934 m | mean so far: 0.1606 m
+loading frame 146
+Frame-to-model ICP
+iter 0: avg loss = 3.9769e-04, inlier count = 347690
+iter 1: avg loss = 1.6246e-04, inlier count = 350151
+iter 2: avg loss = 1.4611e-04, inlier count = 348102
+iter 3: avg loss = 1.4519e-04, inlier count = 347699
+iter 4: avg loss = 1.4508e-04, inlier count = 347659
+iter 5: avg loss = 1.4507e-04, inlier count = 347654
+iter 6: avg loss = 1.4507e-04, inlier count = 347655
+iter 7: avg loss = 1.4507e-04, inlier count = 347654
+iter 8: avg loss = 1.4507e-04, inlier count = 347654
+iter 9: avg loss = 1.4507e-04, inlier count = 347654
+Point-based fusion
+updated: 216375, added: 11801, total: 1417132
+  trans err vs GT (Z-up viz): 0.5008 m | mean so far: 0.1629 m
+loading frame 147
+Frame-to-model ICP
+iter 0: avg loss = 3.3775e-04, inlier count = 353129
+iter 1: avg loss = 1.5276e-04, inlier count = 350325
+iter 2: avg loss = 1.4749e-04, inlier count = 349215
+iter 3: avg loss = 1.4703e-04, inlier count = 349061
+iter 4: avg loss = 1.4697e-04, inlier count = 349034
+iter 5: avg loss = 1.4697e-04, inlier count = 349025
+iter 6: avg loss = 1.4697e-04, inlier count = 349026
+iter 7: avg loss = 1.4697e-04, inlier count = 349025
+iter 8: avg loss = 1.4697e-04, inlier count = 349025
+iter 9: avg loss = 1.4697e-04, inlier count = 349025
+Point-based fusion
+updated: 217703, added: 11437, total: 1428569
+  trans err vs GT (Z-up viz): 0.5064 m | mean so far: 0.1652 m
+loading frame 148
+Frame-to-model ICP
+iter 0: avg loss = 3.3717e-04, inlier count = 353079
+iter 1: avg loss = 1.5833e-04, inlier count = 350624
+iter 2: avg loss = 1.5052e-04, inlier count = 349086
+iter 3: avg loss = 1.4987e-04, inlier count = 348858
+iter 4: avg loss = 1.4968e-04, inlier count = 348826
+iter 5: avg loss = 1.4968e-04, inlier count = 348826
+iter 6: avg loss = 1.4968e-04, inlier count = 348828
+iter 7: avg loss = 1.4968e-04, inlier count = 348830
+iter 8: avg loss = 1.4968e-04, inlier count = 348830
+iter 9: avg loss = 1.4968e-04, inlier count = 348830
+Point-based fusion
+updated: 217778, added: 11537, total: 1440106
+  trans err vs GT (Z-up viz): 0.5118 m | mean so far: 0.1676 m
+loading frame 149
+Frame-to-model ICP
+iter 0: avg loss = 2.8138e-04, inlier count = 355483
+iter 1: avg loss = 1.5639e-04, inlier count = 351128
+iter 2: avg loss = 1.5169e-04, inlier count = 349970
+iter 3: avg loss = 1.5130e-04, inlier count = 349809
+iter 4: avg loss = 1.5124e-04, inlier count = 349791
+iter 5: avg loss = 1.5123e-04, inlier count = 349786
+iter 6: avg loss = 1.5121e-04, inlier count = 349783
+iter 7: avg loss = 1.5121e-04, inlier count = 349783
+iter 8: avg loss = 1.5121e-04, inlier count = 349784
+iter 9: avg loss = 1.5121e-04, inlier count = 349784
+Point-based fusion
+updated: 218504, added: 11212, total: 1451318
+  trans err vs GT (Z-up viz): 0.5160 m | mean so far: 0.1699 m
+loading frame 150
+Frame-to-model ICP
+iter 0: avg loss = 2.6673e-04, inlier count = 355198
+iter 1: avg loss = 1.5495e-04, inlier count = 351559
+iter 2: avg loss = 1.5028e-04, inlier count = 350585
+iter 3: avg loss = 1.4993e-04, inlier count = 350455
+iter 4: avg loss = 1.4985e-04, inlier count = 350437
+iter 5: avg loss = 1.4986e-04, inlier count = 350439
+iter 6: avg loss = 1.4985e-04, inlier count = 350438
+iter 7: avg loss = 1.4984e-04, inlier count = 350435
+iter 8: avg loss = 1.4984e-04, inlier count = 350434
+iter 9: avg loss = 1.4984e-04, inlier count = 350434
+Point-based fusion
+updated: 219011, added: 11133, total: 1462451
+  trans err vs GT (Z-up viz): 0.5197 m | mean so far: 0.1723 m
+loading frame 151
+Frame-to-model ICP
+iter 0: avg loss = 2.8812e-04, inlier count = 356552
+iter 1: avg loss = 1.5607e-04, inlier count = 352026
+iter 2: avg loss = 1.5007e-04, inlier count = 350808
+iter 3: avg loss = 1.4965e-04, inlier count = 350634
+iter 4: avg loss = 1.4960e-04, inlier count = 350627
+iter 5: avg loss = 1.4959e-04, inlier count = 350627
+iter 6: avg loss = 1.4959e-04, inlier count = 350627
+iter 7: avg loss = 1.4959e-04, inlier count = 350628
+iter 8: avg loss = 1.4959e-04, inlier count = 350628
+iter 9: avg loss = 1.4959e-04, inlier count = 350628
+Point-based fusion
+updated: 219311, added: 10961, total: 1473412
+  trans err vs GT (Z-up viz): 0.5236 m | mean so far: 0.1746 m
+loading frame 152
+Frame-to-model ICP
+iter 0: avg loss = 2.8915e-04, inlier count = 356378
+iter 1: avg loss = 1.5548e-04, inlier count = 352548
+iter 2: avg loss = 1.4965e-04, inlier count = 351368
+iter 3: avg loss = 1.4914e-04, inlier count = 351190
+iter 4: avg loss = 1.4899e-04, inlier count = 351165
+iter 5: avg loss = 1.4897e-04, inlier count = 351153
+iter 6: avg loss = 1.4897e-04, inlier count = 351154
+iter 7: avg loss = 1.4897e-04, inlier count = 351152
+iter 8: avg loss = 1.4897e-04, inlier count = 351152
+iter 9: avg loss = 1.4897e-04, inlier count = 351153
+Point-based fusion
+updated: 219480, added: 10940, total: 1484352
+  trans err vs GT (Z-up viz): 0.5276 m | mean so far: 0.1769 m
+loading frame 153
+Frame-to-model ICP
+iter 0: avg loss = 2.7837e-04, inlier count = 353594
+iter 1: avg loss = 1.5477e-04, inlier count = 352960
+iter 2: avg loss = 1.4934e-04, inlier count = 351721
+iter 3: avg loss = 1.4871e-04, inlier count = 351524
+iter 4: avg loss = 1.4861e-04, inlier count = 351505
+iter 5: avg loss = 1.4860e-04, inlier count = 351496
+iter 6: avg loss = 1.4860e-04, inlier count = 351496
+iter 7: avg loss = 1.4860e-04, inlier count = 351497
+iter 8: avg loss = 1.4860e-04, inlier count = 351497
+iter 9: avg loss = 1.4860e-04, inlier count = 351497
+Point-based fusion
+updated: 219307, added: 11122, total: 1495474
+  trans err vs GT (Z-up viz): 0.5311 m | mean so far: 0.1792 m
+loading frame 154
+Frame-to-model ICP
+iter 0: avg loss = 2.9743e-04, inlier count = 349169
+iter 1: avg loss = 1.5309e-04, inlier count = 353583
+iter 2: avg loss = 1.4812e-04, inlier count = 352478
+iter 3: avg loss = 1.4749e-04, inlier count = 352292
+iter 4: avg loss = 1.4744e-04, inlier count = 352288
+iter 5: avg loss = 1.4743e-04, inlier count = 352283
+iter 6: avg loss = 1.4744e-04, inlier count = 352283
+iter 7: avg loss = 1.4744e-04, inlier count = 352283
+iter 8: avg loss = 1.4744e-04, inlier count = 352283
+iter 9: avg loss = 1.4744e-04, inlier count = 352283
+Point-based fusion
+updated: 219136, added: 10808, total: 1506282
+  trans err vs GT (Z-up viz): 0.5348 m | mean so far: 0.1815 m
+loading frame 155
+Frame-to-model ICP
+iter 0: avg loss = 3.2581e-04, inlier count = 345932
+iter 1: avg loss = 1.5532e-04, inlier count = 353257
+iter 2: avg loss = 1.4771e-04, inlier count = 351920
+iter 3: avg loss = 1.4689e-04, inlier count = 351668
+iter 4: avg loss = 1.4682e-04, inlier count = 351626
+iter 5: avg loss = 1.4680e-04, inlier count = 351622
+iter 6: avg loss = 1.4679e-04, inlier count = 351620
+iter 7: avg loss = 1.4679e-04, inlier count = 351621
+iter 8: avg loss = 1.4679e-04, inlier count = 351621
+iter 9: avg loss = 1.4679e-04, inlier count = 351621
+Point-based fusion
+updated: 220116, added: 10923, total: 1517205
+  trans err vs GT (Z-up viz): 0.5387 m | mean so far: 0.1838 m
+loading frame 156
+Frame-to-model ICP
+iter 0: avg loss = 3.4420e-04, inlier count = 350707
+iter 1: avg loss = 1.5977e-04, inlier count = 353449
+iter 2: avg loss = 1.5057e-04, inlier count = 352067
+iter 3: avg loss = 1.5004e-04, inlier count = 351836
+iter 4: avg loss = 1.4992e-04, inlier count = 351794
+iter 5: avg loss = 1.4991e-04, inlier count = 351790
+iter 6: avg loss = 1.4991e-04, inlier count = 351789
+iter 7: avg loss = 1.4991e-04, inlier count = 351789
+iter 8: avg loss = 1.4991e-04, inlier count = 351789
+iter 9: avg loss = 1.4991e-04, inlier count = 351790
+Point-based fusion
+updated: 219847, added: 11101, total: 1528306
+  trans err vs GT (Z-up viz): 0.5433 m | mean so far: 0.1861 m
+loading frame 157
+Frame-to-model ICP
+iter 0: avg loss = 3.1956e-04, inlier count = 353829
+iter 1: avg loss = 1.6127e-04, inlier count = 353304
+iter 2: avg loss = 1.5210e-04, inlier count = 351960
+iter 3: avg loss = 1.5152e-04, inlier count = 351691
+iter 4: avg loss = 1.5145e-04, inlier count = 351665
+iter 5: avg loss = 1.5141e-04, inlier count = 351647
+iter 6: avg loss = 1.5140e-04, inlier count = 351647
+iter 7: avg loss = 1.5140e-04, inlier count = 351646
+iter 8: avg loss = 1.5140e-04, inlier count = 351644
+iter 9: avg loss = 1.5139e-04, inlier count = 351642
+Point-based fusion
+updated: 219320, added: 11055, total: 1539361
+  trans err vs GT (Z-up viz): 0.5474 m | mean so far: 0.1884 m
+loading frame 158
+Frame-to-model ICP
+iter 0: avg loss = 3.2522e-04, inlier count = 354402
+iter 1: avg loss = 1.6182e-04, inlier count = 353778
+iter 2: avg loss = 1.5341e-04, inlier count = 352492
+iter 3: avg loss = 1.5280e-04, inlier count = 352252
+iter 4: avg loss = 1.5271e-04, inlier count = 352206
+iter 5: avg loss = 1.5270e-04, inlier count = 352197
+iter 6: avg loss = 1.5269e-04, inlier count = 352197
+iter 7: avg loss = 1.5269e-04, inlier count = 352197
+iter 8: avg loss = 1.5269e-04, inlier count = 352197
+iter 9: avg loss = 1.5269e-04, inlier count = 352197
+Point-based fusion
+updated: 219507, added: 10926, total: 1550287
+  trans err vs GT (Z-up viz): 0.5518 m | mean so far: 0.1907 m
+loading frame 159
+Frame-to-model ICP
+iter 0: avg loss = 3.5049e-04, inlier count = 353387
+iter 1: avg loss = 1.6882e-04, inlier count = 353487
+iter 2: avg loss = 1.5790e-04, inlier count = 352017
+iter 3: avg loss = 1.5693e-04, inlier count = 351725
+iter 4: avg loss = 1.5677e-04, inlier count = 351675
+iter 5: avg loss = 1.5672e-04, inlier count = 351656
+iter 6: avg loss = 1.5668e-04, inlier count = 351646
+iter 7: avg loss = 1.5668e-04, inlier count = 351645
+iter 8: avg loss = 1.5668e-04, inlier count = 351645
+iter 9: avg loss = 1.5668e-04, inlier count = 351645
+Point-based fusion
+updated: 218426, added: 11176, total: 1561463
+  trans err vs GT (Z-up viz): 0.5563 m | mean so far: 0.1930 m
+loading frame 160
+Frame-to-model ICP
+iter 0: avg loss = 3.5823e-04, inlier count = 353937
+iter 1: avg loss = 1.7410e-04, inlier count = 353673
+iter 2: avg loss = 1.6060e-04, inlier count = 351723
+iter 3: avg loss = 1.5955e-04, inlier count = 351388
+iter 4: avg loss = 1.5946e-04, inlier count = 351335
+iter 5: avg loss = 1.5947e-04, inlier count = 351327
+iter 6: avg loss = 1.5946e-04, inlier count = 351327
+iter 7: avg loss = 1.5946e-04, inlier count = 351325
+iter 8: avg loss = 1.5946e-04, inlier count = 351323
+iter 9: avg loss = 1.5946e-04, inlier count = 351322
+Point-based fusion
+updated: 218709, added: 11151, total: 1572614
+  trans err vs GT (Z-up viz): 0.5609 m | mean so far: 0.1953 m
+loading frame 161
+Frame-to-model ICP
+iter 0: avg loss = 3.8179e-04, inlier count = 352391
+iter 1: avg loss = 1.8176e-04, inlier count = 353225
+iter 2: avg loss = 1.6494e-04, inlier count = 351288
+iter 3: avg loss = 1.6351e-04, inlier count = 350942
+iter 4: avg loss = 1.6335e-04, inlier count = 350842
+iter 5: avg loss = 1.6328e-04, inlier count = 350829
+iter 6: avg loss = 1.6326e-04, inlier count = 350827
+iter 7: avg loss = 1.6325e-04, inlier count = 350823
+iter 8: avg loss = 1.6325e-04, inlier count = 350823
+iter 9: avg loss = 1.6325e-04, inlier count = 350823
+Point-based fusion
+updated: 218401, added: 11075, total: 1583689
+  trans err vs GT (Z-up viz): 0.5659 m | mean so far: 0.1976 m
+loading frame 162
+Frame-to-model ICP
+iter 0: avg loss = 3.8977e-04, inlier count = 350996
+iter 1: avg loss = 1.8396e-04, inlier count = 351951
+iter 2: avg loss = 1.6779e-04, inlier count = 350186
+iter 3: avg loss = 1.6596e-04, inlier count = 349737
+iter 4: avg loss = 1.6573e-04, inlier count = 349658
+iter 5: avg loss = 1.6569e-04, inlier count = 349670
+iter 6: avg loss = 1.6571e-04, inlier count = 349674
+iter 7: avg loss = 1.6570e-04, inlier count = 349674
+iter 8: avg loss = 1.6570e-04, inlier count = 349676
+iter 9: avg loss = 1.6570e-04, inlier count = 349676
+Point-based fusion
+updated: 218671, added: 11407, total: 1595096
+  trans err vs GT (Z-up viz): 0.5707 m | mean so far: 0.1999 m
+loading frame 163
+Frame-to-model ICP
+iter 0: avg loss = 3.4740e-04, inlier count = 354058
+iter 1: avg loss = 1.8159e-04, inlier count = 351171
+iter 2: avg loss = 1.6884e-04, inlier count = 349558
+iter 3: avg loss = 1.6733e-04, inlier count = 349154
+iter 4: avg loss = 1.6695e-04, inlier count = 349060
+iter 5: avg loss = 1.6684e-04, inlier count = 349029
+iter 6: avg loss = 1.6682e-04, inlier count = 349026
+iter 7: avg loss = 1.6681e-04, inlier count = 349028
+iter 8: avg loss = 1.6681e-04, inlier count = 349029
+iter 9: avg loss = 1.6681e-04, inlier count = 349030
+Point-based fusion
+updated: 220171, added: 11160, total: 1606256
+  trans err vs GT (Z-up viz): 0.5746 m | mean so far: 0.2022 m
+loading frame 164
+Frame-to-model ICP
+iter 0: avg loss = 3.3954e-04, inlier count = 353454
+iter 1: avg loss = 1.8228e-04, inlier count = 350034
+iter 2: avg loss = 1.7128e-04, inlier count = 348445
+iter 3: avg loss = 1.6943e-04, inlier count = 348181
+iter 4: avg loss = 1.6906e-04, inlier count = 348122
+iter 5: avg loss = 1.6885e-04, inlier count = 348104
+iter 6: avg loss = 1.6881e-04, inlier count = 348096
+iter 7: avg loss = 1.6877e-04, inlier count = 348090
+iter 8: avg loss = 1.6877e-04, inlier count = 348090
+iter 9: avg loss = 1.6877e-04, inlier count = 348090
+Point-based fusion
+updated: 219073, added: 11223, total: 1617479
+  trans err vs GT (Z-up viz): 0.5779 m | mean so far: 0.2045 m
+loading frame 165
+Frame-to-model ICP
+iter 0: avg loss = 3.1790e-04, inlier count = 352968
+iter 1: avg loss = 1.8082e-04, inlier count = 349934
+iter 2: avg loss = 1.7093e-04, inlier count = 348421
+iter 3: avg loss = 1.6905e-04, inlier count = 348157
+iter 4: avg loss = 1.6855e-04, inlier count = 348070
+iter 5: avg loss = 1.6833e-04, inlier count = 348044
+iter 6: avg loss = 1.6828e-04, inlier count = 348043
+iter 7: avg loss = 1.6825e-04, inlier count = 348041
+iter 8: avg loss = 1.6824e-04, inlier count = 348035
+iter 9: avg loss = 1.6824e-04, inlier count = 348036
+Point-based fusion
+updated: 219922, added: 11009, total: 1628488
+  trans err vs GT (Z-up viz): 0.5808 m | mean so far: 0.2068 m
+loading frame 166
+Frame-to-model ICP
+iter 0: avg loss = 2.6670e-04, inlier count = 353123
+iter 1: avg loss = 1.7473e-04, inlier count = 350421
+iter 2: avg loss = 1.6954e-04, inlier count = 349317
+iter 3: avg loss = 1.6833e-04, inlier count = 349046
+iter 4: avg loss = 1.6788e-04, inlier count = 348975
+iter 5: avg loss = 1.6776e-04, inlier count = 348944
+iter 6: avg loss = 1.6772e-04, inlier count = 348934
+iter 7: avg loss = 1.6769e-04, inlier count = 348934
+iter 8: avg loss = 1.6769e-04, inlier count = 348932
+iter 9: avg loss = 1.6769e-04, inlier count = 348932
+Point-based fusion
+updated: 220276, added: 10844, total: 1639332
+  trans err vs GT (Z-up viz): 0.5828 m | mean so far: 0.2091 m
+loading frame 167
+Frame-to-model ICP
+iter 0: avg loss = 2.7581e-04, inlier count = 347976
+iter 1: avg loss = 1.7544e-04, inlier count = 351045
+iter 2: avg loss = 1.7000e-04, inlier count = 350228
+iter 3: avg loss = 1.6867e-04, inlier count = 349967
+iter 4: avg loss = 1.6825e-04, inlier count = 349906
+iter 5: avg loss = 1.6801e-04, inlier count = 349875
+iter 6: avg loss = 1.6799e-04, inlier count = 349877
+iter 7: avg loss = 1.6798e-04, inlier count = 349874
+iter 8: avg loss = 1.6797e-04, inlier count = 349870
+iter 9: avg loss = 1.6797e-04, inlier count = 349871
+Point-based fusion
+updated: 221694, added: 10355, total: 1649687
+  trans err vs GT (Z-up viz): 0.5842 m | mean so far: 0.2113 m
+loading frame 168
+Frame-to-model ICP
+iter 0: avg loss = 2.2683e-04, inlier count = 355229
+iter 1: avg loss = 1.6839e-04, inlier count = 350703
+iter 2: avg loss = 1.6581e-04, inlier count = 350070
+iter 3: avg loss = 1.6561e-04, inlier count = 350043
+iter 4: avg loss = 1.6558e-04, inlier count = 350021
+iter 5: avg loss = 1.6558e-04, inlier count = 350017
+iter 6: avg loss = 1.6558e-04, inlier count = 350016
+iter 7: avg loss = 1.6558e-04, inlier count = 350018
+iter 8: avg loss = 1.6558e-04, inlier count = 350017
+iter 9: avg loss = 1.6558e-04, inlier count = 350017
+Point-based fusion
+updated: 221373, added: 10190, total: 1659877
+  trans err vs GT (Z-up viz): 0.5860 m | mean so far: 0.2135 m
+loading frame 169
+Frame-to-model ICP
+iter 0: avg loss = 2.8068e-04, inlier count = 347784
+iter 1: avg loss = 1.6461e-04, inlier count = 349829
+iter 2: avg loss = 1.6095e-04, inlier count = 348877
+iter 3: avg loss = 1.6029e-04, inlier count = 348754
+iter 4: avg loss = 1.6017e-04, inlier count = 348724
+iter 5: avg loss = 1.6009e-04, inlier count = 348706
+iter 6: avg loss = 1.6008e-04, inlier count = 348701
+iter 7: avg loss = 1.6007e-04, inlier count = 348701
+iter 8: avg loss = 1.6008e-04, inlier count = 348703
+iter 9: avg loss = 1.6007e-04, inlier count = 348701
+Point-based fusion
+updated: 220905, added: 10619, total: 1670496
+  trans err vs GT (Z-up viz): 0.5889 m | mean so far: 0.2158 m
+loading frame 170
+Frame-to-model ICP
+iter 0: avg loss = 2.4615e-04, inlier count = 355214
+iter 1: avg loss = 1.6426e-04, inlier count = 350935
+iter 2: avg loss = 1.5837e-04, inlier count = 349771
+iter 3: avg loss = 1.5653e-04, inlier count = 349401
+iter 4: avg loss = 1.5577e-04, inlier count = 349261
+iter 5: avg loss = 1.5543e-04, inlier count = 349199
+iter 6: avg loss = 1.5534e-04, inlier count = 349187
+iter 7: avg loss = 1.5529e-04, inlier count = 349183
+iter 8: avg loss = 1.5526e-04, inlier count = 349178
+iter 9: avg loss = 1.5526e-04, inlier count = 349177
+Point-based fusion
+updated: 221630, added: 10511, total: 1681007
+  trans err vs GT (Z-up viz): 0.5911 m | mean so far: 0.2180 m
+loading frame 171
+Frame-to-model ICP
+iter 0: avg loss = 2.0998e-04, inlier count = 354434
+iter 1: avg loss = 1.5623e-04, inlier count = 351537
+iter 2: avg loss = 1.5326e-04, inlier count = 350612
+iter 3: avg loss = 1.5243e-04, inlier count = 350409
+iter 4: avg loss = 1.5207e-04, inlier count = 350352
+iter 5: avg loss = 1.5198e-04, inlier count = 350337
+iter 6: avg loss = 1.5194e-04, inlier count = 350326
+iter 7: avg loss = 1.5191e-04, inlier count = 350320
+iter 8: avg loss = 1.5190e-04, inlier count = 350317
+iter 9: avg loss = 1.5189e-04, inlier count = 350314
+Point-based fusion
+updated: 222570, added: 9714, total: 1690721
+  trans err vs GT (Z-up viz): 0.5927 m | mean so far: 0.2202 m
+loading frame 172
+Frame-to-model ICP
+iter 0: avg loss = 1.8906e-04, inlier count = 353109
+iter 1: avg loss = 1.4795e-04, inlier count = 350713
+iter 2: avg loss = 1.4727e-04, inlier count = 350177
+iter 3: avg loss = 1.4740e-04, inlier count = 350092
+iter 4: avg loss = 1.4747e-04, inlier count = 350071
+iter 5: avg loss = 1.4750e-04, inlier count = 350070
+iter 6: avg loss = 1.4751e-04, inlier count = 350067
+iter 7: avg loss = 1.4751e-04, inlier count = 350067
+iter 8: avg loss = 1.4751e-04, inlier count = 350067
+iter 9: avg loss = 1.4751e-04, inlier count = 350067
+Point-based fusion
+updated: 223888, added: 9682, total: 1700403
+  trans err vs GT (Z-up viz): 0.5940 m | mean so far: 0.2223 m
+loading frame 173
+Frame-to-model ICP
+iter 0: avg loss = 1.6710e-04, inlier count = 351929
+iter 1: avg loss = 1.4310e-04, inlier count = 351656
+iter 2: avg loss = 1.4434e-04, inlier count = 351430
+iter 3: avg loss = 1.4508e-04, inlier count = 351468
+iter 4: avg loss = 1.4545e-04, inlier count = 351514
+iter 5: avg loss = 1.4563e-04, inlier count = 351548
+iter 6: avg loss = 1.4570e-04, inlier count = 351558
+iter 7: avg loss = 1.4575e-04, inlier count = 351562
+iter 8: avg loss = 1.4576e-04, inlier count = 351565
+iter 9: avg loss = 1.4576e-04, inlier count = 351565
+Point-based fusion
+updated: 226445, added: 8982, total: 1709385
+  trans err vs GT (Z-up viz): 0.5946 m | mean so far: 0.2245 m
+loading frame 174
+Frame-to-model ICP
+iter 0: avg loss = 1.5540e-04, inlier count = 350351
+iter 1: avg loss = 1.3464e-04, inlier count = 353028
+iter 2: avg loss = 1.3805e-04, inlier count = 353290
+iter 3: avg loss = 1.3982e-04, inlier count = 353570
+iter 4: avg loss = 1.4082e-04, inlier count = 353720
+iter 5: avg loss = 1.4118e-04, inlier count = 353795
+iter 6: avg loss = 1.4140e-04, inlier count = 353834
+iter 7: avg loss = 1.4150e-04, inlier count = 353853
+iter 8: avg loss = 1.4149e-04, inlier count = 353844
+iter 9: avg loss = 1.4150e-04, inlier count = 353845
+Point-based fusion
+updated: 229609, added: 7867, total: 1717252
+  trans err vs GT (Z-up viz): 0.5945 m | mean so far: 0.2266 m
+loading frame 175
+Frame-to-model ICP
+iter 0: avg loss = 1.5306e-04, inlier count = 345510
+iter 1: avg loss = 1.2375e-04, inlier count = 352734
+iter 2: avg loss = 1.3138e-04, inlier count = 354304
+iter 3: avg loss = 1.3477e-04, inlier count = 354897
+iter 4: avg loss = 1.3650e-04, inlier count = 355145
+iter 5: avg loss = 1.3714e-04, inlier count = 355232
+iter 6: avg loss = 1.3754e-04, inlier count = 355297
+iter 7: avg loss = 1.3772e-04, inlier count = 355324
+iter 8: avg loss = 1.3786e-04, inlier count = 355350
+iter 9: avg loss = 1.3789e-04, inlier count = 355356
+Point-based fusion
+updated: 228388, added: 8460, total: 1725712
+  trans err vs GT (Z-up viz): 0.5931 m | mean so far: 0.2287 m
+loading frame 176
+Frame-to-model ICP
+iter 0: avg loss = 1.2499e-04, inlier count = 351089
+iter 1: avg loss = 1.2065e-04, inlier count = 356428
+iter 2: avg loss = 1.2640e-04, inlier count = 357657
+iter 3: avg loss = 1.2885e-04, inlier count = 358104
+iter 4: avg loss = 1.3000e-04, inlier count = 358289
+iter 5: avg loss = 1.3052e-04, inlier count = 358350
+iter 6: avg loss = 1.3075e-04, inlier count = 358400
+iter 7: avg loss = 1.3086e-04, inlier count = 358413
+iter 8: avg loss = 1.3091e-04, inlier count = 358414
+iter 9: avg loss = 1.3092e-04, inlier count = 358417
+Point-based fusion
+updated: 233459, added: 7218, total: 1732930
+  trans err vs GT (Z-up viz): 0.5921 m | mean so far: 0.2308 m
+loading frame 177
+Frame-to-model ICP
+iter 0: avg loss = 1.4650e-04, inlier count = 344294
+iter 1: avg loss = 1.1134e-04, inlier count = 357260
+iter 2: avg loss = 1.1604e-04, inlier count = 358341
+iter 3: avg loss = 1.1832e-04, inlier count = 358788
+iter 4: avg loss = 1.1927e-04, inlier count = 358958
+iter 5: avg loss = 1.1951e-04, inlier count = 359018
+iter 6: avg loss = 1.1965e-04, inlier count = 359045
+iter 7: avg loss = 1.1966e-04, inlier count = 359050
+iter 8: avg loss = 1.1966e-04, inlier count = 359053
+iter 9: avg loss = 1.1966e-04, inlier count = 359054
+Point-based fusion
+updated: 234572, added: 6925, total: 1739855
+  trans err vs GT (Z-up viz): 0.5927 m | mean so far: 0.2328 m
+loading frame 178
+Frame-to-model ICP
+iter 0: avg loss = 1.5586e-04, inlier count = 343420
+iter 1: avg loss = 1.0570e-04, inlier count = 357568
+iter 2: avg loss = 1.0915e-04, inlier count = 358255
+iter 3: avg loss = 1.1077e-04, inlier count = 358502
+iter 4: avg loss = 1.1134e-04, inlier count = 358599
+iter 5: avg loss = 1.1158e-04, inlier count = 358612
+iter 6: avg loss = 1.1167e-04, inlier count = 358622
+iter 7: avg loss = 1.1168e-04, inlier count = 358623
+iter 8: avg loss = 1.1169e-04, inlier count = 358620
+iter 9: avg loss = 1.1169e-04, inlier count = 358620
+Point-based fusion
+updated: 233563, added: 7469, total: 1747324
+  trans err vs GT (Z-up viz): 0.5941 m | mean so far: 0.2349 m
+loading frame 179
+Frame-to-model ICP
+iter 0: avg loss = 1.2814e-04, inlier count = 358567
+iter 1: avg loss = 1.0442e-04, inlier count = 357791
+iter 2: avg loss = 1.0595e-04, inlier count = 357776
+iter 3: avg loss = 1.0655e-04, inlier count = 357840
+iter 4: avg loss = 1.0673e-04, inlier count = 357846
+iter 5: avg loss = 1.0676e-04, inlier count = 357864
+iter 6: avg loss = 1.0678e-04, inlier count = 357866
+iter 7: avg loss = 1.0680e-04, inlier count = 357865
+iter 8: avg loss = 1.0680e-04, inlier count = 357864
+iter 9: avg loss = 1.0680e-04, inlier count = 357865
+Point-based fusion
+updated: 233634, added: 7859, total: 1755183
+  trans err vs GT (Z-up viz): 0.5953 m | mean so far: 0.2369 m
+loading frame 180
+Frame-to-model ICP
+iter 0: avg loss = 1.3925e-04, inlier count = 361670
+iter 1: avg loss = 1.0303e-04, inlier count = 358273
+iter 2: avg loss = 1.0272e-04, inlier count = 357763
+iter 3: avg loss = 1.0271e-04, inlier count = 357695
+iter 4: avg loss = 1.0272e-04, inlier count = 357684
+iter 5: avg loss = 1.0273e-04, inlier count = 357686
+iter 6: avg loss = 1.0274e-04, inlier count = 357685
+iter 7: avg loss = 1.0274e-04, inlier count = 357686
+iter 8: avg loss = 1.0274e-04, inlier count = 357685
+iter 9: avg loss = 1.0274e-04, inlier count = 357685
+Point-based fusion
+updated: 233798, added: 7979, total: 1763162
+  trans err vs GT (Z-up viz): 0.5969 m | mean so far: 0.2389 m
+loading frame 181
+Frame-to-model ICP
+iter 0: avg loss = 1.6236e-04, inlier count = 361940
+iter 1: avg loss = 1.0374e-04, inlier count = 357602
+iter 2: avg loss = 1.0205e-04, inlier count = 356764
+iter 3: avg loss = 1.0183e-04, inlier count = 356601
+iter 4: avg loss = 1.0179e-04, inlier count = 356571
+iter 5: avg loss = 1.0178e-04, inlier count = 356565
+iter 6: avg loss = 1.0177e-04, inlier count = 356569
+iter 7: avg loss = 1.0178e-04, inlier count = 356571
+iter 8: avg loss = 1.0178e-04, inlier count = 356570
+iter 9: avg loss = 1.0178e-04, inlier count = 356570
+Point-based fusion
+updated: 233405, added: 8325, total: 1771487
+  trans err vs GT (Z-up viz): 0.5993 m | mean so far: 0.2409 m
+loading frame 182
+Frame-to-model ICP
+iter 0: avg loss = 1.3413e-04, inlier count = 359163
+iter 1: avg loss = 1.0096e-04, inlier count = 357036
+iter 2: avg loss = 1.0053e-04, inlier count = 356490
+iter 3: avg loss = 1.0060e-04, inlier count = 356475
+iter 4: avg loss = 1.0059e-04, inlier count = 356472
+iter 5: avg loss = 1.0058e-04, inlier count = 356474
+iter 6: avg loss = 1.0058e-04, inlier count = 356475
+iter 7: avg loss = 1.0058e-04, inlier count = 356475
+iter 8: avg loss = 1.0058e-04, inlier count = 356475
+iter 9: avg loss = 1.0058e-04, inlier count = 356475
+Point-based fusion
+updated: 233766, added: 8520, total: 1780007
+  trans err vs GT (Z-up viz): 0.6009 m | mean so far: 0.2428 m
+loading frame 183
+Frame-to-model ICP
+iter 0: avg loss = 1.3504e-04, inlier count = 358901
+iter 1: avg loss = 9.9668e-05, inlier count = 357526
+iter 2: avg loss = 9.9303e-05, inlier count = 357133
+iter 3: avg loss = 9.9344e-05, inlier count = 357102
+iter 4: avg loss = 9.9354e-05, inlier count = 357095
+iter 5: avg loss = 9.9354e-05, inlier count = 357096
+iter 6: avg loss = 9.9354e-05, inlier count = 357096
+iter 7: avg loss = 9.9353e-05, inlier count = 357095
+iter 8: avg loss = 9.9355e-05, inlier count = 357096
+iter 9: avg loss = 9.9354e-05, inlier count = 357096
+Point-based fusion
+updated: 233956, added: 8393, total: 1788400
+  trans err vs GT (Z-up viz): 0.6022 m | mean so far: 0.2448 m
+loading frame 184
+Frame-to-model ICP
+iter 0: avg loss = 1.8530e-04, inlier count = 356241
+iter 1: avg loss = 1.0282e-04, inlier count = 356868
+iter 2: avg loss = 1.0129e-04, inlier count = 356070
+iter 3: avg loss = 1.0111e-04, inlier count = 355979
+iter 4: avg loss = 1.0112e-04, inlier count = 355977
+iter 5: avg loss = 1.0113e-04, inlier count = 355977
+iter 6: avg loss = 1.0112e-04, inlier count = 355977
+iter 7: avg loss = 1.0112e-04, inlier count = 355977
+iter 8: avg loss = 1.0112e-04, inlier count = 355977
+iter 9: avg loss = 1.0112e-04, inlier count = 355977
+Point-based fusion
+updated: 233542, added: 8776, total: 1797176
+  trans err vs GT (Z-up viz): 0.6047 m | mean so far: 0.2468 m
+loading frame 185
+Frame-to-model ICP
+iter 0: avg loss = 2.1474e-04, inlier count = 353832
+iter 1: avg loss = 1.0669e-04, inlier count = 355350
+iter 2: avg loss = 1.0357e-04, inlier count = 354331
+iter 3: avg loss = 1.0326e-04, inlier count = 354121
+iter 4: avg loss = 1.0320e-04, inlier count = 354102
+iter 5: avg loss = 1.0319e-04, inlier count = 354094
+iter 6: avg loss = 1.0319e-04, inlier count = 354094
+iter 7: avg loss = 1.0319e-04, inlier count = 354094
+iter 8: avg loss = 1.0319e-04, inlier count = 354094
+iter 9: avg loss = 1.0319e-04, inlier count = 354094
+Point-based fusion
+updated: 233354, added: 9128, total: 1806304
+  trans err vs GT (Z-up viz): 0.6077 m | mean so far: 0.2487 m
+loading frame 186
+Frame-to-model ICP
+iter 0: avg loss = 3.1611e-04, inlier count = 342072
+iter 1: avg loss = 1.1678e-04, inlier count = 354645
+iter 2: avg loss = 1.0692e-04, inlier count = 353307
+iter 3: avg loss = 1.0596e-04, inlier count = 352938
+iter 4: avg loss = 1.0587e-04, inlier count = 352873
+iter 5: avg loss = 1.0584e-04, inlier count = 352862
+iter 6: avg loss = 1.0584e-04, inlier count = 352856
+iter 7: avg loss = 1.0583e-04, inlier count = 352853
+iter 8: avg loss = 1.0583e-04, inlier count = 352855
+iter 9: avg loss = 1.0583e-04, inlier count = 352855
+Point-based fusion
+updated: 233337, added: 9457, total: 1815761
+  trans err vs GT (Z-up viz): 0.6124 m | mean so far: 0.2507 m
+loading frame 187
+Frame-to-model ICP
+iter 0: avg loss = 2.9254e-04, inlier count = 344795
+iter 1: avg loss = 1.2273e-04, inlier count = 352758
+iter 2: avg loss = 1.1169e-04, inlier count = 350962
+iter 3: avg loss = 1.1073e-04, inlier count = 350549
+iter 4: avg loss = 1.1057e-04, inlier count = 350498
+iter 5: avg loss = 1.1054e-04, inlier count = 350491
+iter 6: avg loss = 1.1054e-04, inlier count = 350485
+iter 7: avg loss = 1.1053e-04, inlier count = 350484
+iter 8: avg loss = 1.1053e-04, inlier count = 350484
+iter 9: avg loss = 1.1053e-04, inlier count = 350484
+Point-based fusion
+updated: 233794, added: 9860, total: 1825621
+  trans err vs GT (Z-up viz): 0.6169 m | mean so far: 0.2526 m
+loading frame 188
+Frame-to-model ICP
+iter 0: avg loss = 2.9114e-04, inlier count = 347493
+iter 1: avg loss = 1.3352e-04, inlier count = 351261
+iter 2: avg loss = 1.2043e-04, inlier count = 349572
+iter 3: avg loss = 1.1914e-04, inlier count = 349142
+iter 4: avg loss = 1.1904e-04, inlier count = 349068
+iter 5: avg loss = 1.1900e-04, inlier count = 349051
+iter 6: avg loss = 1.1899e-04, inlier count = 349044
+iter 7: avg loss = 1.1899e-04, inlier count = 349044
+iter 8: avg loss = 1.1899e-04, inlier count = 349045
+iter 9: avg loss = 1.1899e-04, inlier count = 349045
+Point-based fusion
+updated: 235237, added: 9961, total: 1835582
+  trans err vs GT (Z-up viz): 0.6213 m | mean so far: 0.2546 m
+loading frame 189
+Frame-to-model ICP
+iter 0: avg loss = 2.7198e-04, inlier count = 345481
+iter 1: avg loss = 1.3576e-04, inlier count = 349132
+iter 2: avg loss = 1.2620e-04, inlier count = 348031
+iter 3: avg loss = 1.2538e-04, inlier count = 347590
+iter 4: avg loss = 1.2519e-04, inlier count = 347504
+iter 5: avg loss = 1.2514e-04, inlier count = 347493
+iter 6: avg loss = 1.2512e-04, inlier count = 347494
+iter 7: avg loss = 1.2512e-04, inlier count = 347493
+iter 8: avg loss = 1.2511e-04, inlier count = 347492
+iter 9: avg loss = 1.2511e-04, inlier count = 347492
+Point-based fusion
+updated: 234740, added: 10098, total: 1845680
+  trans err vs GT (Z-up viz): 0.6252 m | mean so far: 0.2565 m
+loading frame 190
+Frame-to-model ICP
+iter 0: avg loss = 2.5717e-04, inlier count = 343954
+iter 1: avg loss = 1.4640e-04, inlier count = 347956
+iter 2: avg loss = 1.3374e-04, inlier count = 347199
+iter 3: avg loss = 1.3297e-04, inlier count = 346756
+iter 4: avg loss = 1.3287e-04, inlier count = 346687
+iter 5: avg loss = 1.3286e-04, inlier count = 346679
+iter 6: avg loss = 1.3286e-04, inlier count = 346677
+iter 7: avg loss = 1.3286e-04, inlier count = 346678
+iter 8: avg loss = 1.3286e-04, inlier count = 346679
+iter 9: avg loss = 1.3286e-04, inlier count = 346679
+Point-based fusion
+updated: 233923, added: 10371, total: 1856051
+  trans err vs GT (Z-up viz): 0.6296 m | mean so far: 0.2585 m
+loading frame 191
+Frame-to-model ICP
+iter 0: avg loss = 2.8344e-04, inlier count = 340467
+iter 1: avg loss = 1.5620e-04, inlier count = 346275
+iter 2: avg loss = 1.4288e-04, inlier count = 345713
+iter 3: avg loss = 1.4167e-04, inlier count = 345284
+iter 4: avg loss = 1.4160e-04, inlier count = 345217
+iter 5: avg loss = 1.4157e-04, inlier count = 345212
+iter 6: avg loss = 1.4156e-04, inlier count = 345204
+iter 7: avg loss = 1.4156e-04, inlier count = 345203
+iter 8: avg loss = 1.4156e-04, inlier count = 345204
+iter 9: avg loss = 1.4156e-04, inlier count = 345204
+Point-based fusion
+updated: 233696, added: 10393, total: 1866444
+  trans err vs GT (Z-up viz): 0.6335 m | mean so far: 0.2605 m
+loading frame 192
+Frame-to-model ICP
+iter 0: avg loss = 3.8878e-04, inlier count = 306472
+iter 1: avg loss = 1.7001e-04, inlier count = 343262
+iter 2: avg loss = 1.5522e-04, inlier count = 344336
+iter 3: avg loss = 1.5341e-04, inlier count = 343873
+iter 4: avg loss = 1.5311e-04, inlier count = 343787
+iter 5: avg loss = 1.5303e-04, inlier count = 343774
+iter 6: avg loss = 1.5302e-04, inlier count = 343771
+iter 7: avg loss = 1.5302e-04, inlier count = 343768
+iter 8: avg loss = 1.5302e-04, inlier count = 343766
+iter 9: avg loss = 1.5302e-04, inlier count = 343769
+Point-based fusion
+updated: 234116, added: 10444, total: 1876888
+  trans err vs GT (Z-up viz): 0.6375 m | mean so far: 0.2624 m
+loading frame 193
+Frame-to-model ICP
+iter 0: avg loss = 2.6517e-04, inlier count = 331253
+iter 1: avg loss = 1.7878e-04, inlier count = 342556
+iter 2: avg loss = 1.6646e-04, inlier count = 343624
+iter 3: avg loss = 1.6396e-04, inlier count = 343043
+iter 4: avg loss = 1.6361e-04, inlier count = 342900
+iter 5: avg loss = 1.6348e-04, inlier count = 342863
+iter 6: avg loss = 1.6342e-04, inlier count = 342854
+iter 7: avg loss = 1.6341e-04, inlier count = 342851
+iter 8: avg loss = 1.6341e-04, inlier count = 342850
+iter 9: avg loss = 1.6341e-04, inlier count = 342850
+Point-based fusion
+updated: 233685, added: 10333, total: 1887221
+  trans err vs GT (Z-up viz): 0.6421 m | mean so far: 0.2644 m
+loading frame 194
+Frame-to-model ICP
+iter 0: avg loss = 2.9947e-04, inlier count = 309543
+iter 1: avg loss = 1.8723e-04, inlier count = 339319
+iter 2: avg loss = 1.7382e-04, inlier count = 342561
+iter 3: avg loss = 1.7168e-04, inlier count = 342077
+iter 4: avg loss = 1.7149e-04, inlier count = 341971
+iter 5: avg loss = 1.7146e-04, inlier count = 341931
+iter 6: avg loss = 1.7149e-04, inlier count = 341934
+iter 7: avg loss = 1.7150e-04, inlier count = 341937
+iter 8: avg loss = 1.7150e-04, inlier count = 341937
+iter 9: avg loss = 1.7150e-04, inlier count = 341937
+Point-based fusion
+updated: 232192, added: 10199, total: 1897420
+  trans err vs GT (Z-up viz): 0.6474 m | mean so far: 0.2664 m
+loading frame 195
+Frame-to-model ICP
+iter 0: avg loss = 3.0114e-04, inlier count = 304841
+iter 1: avg loss = 1.9168e-04, inlier count = 337749
+iter 2: avg loss = 1.8029e-04, inlier count = 341392
+iter 3: avg loss = 1.7865e-04, inlier count = 340974
+iter 4: avg loss = 1.7853e-04, inlier count = 340832
+iter 5: avg loss = 1.7848e-04, inlier count = 340801
+iter 6: avg loss = 1.7851e-04, inlier count = 340803
+iter 7: avg loss = 1.7851e-04, inlier count = 340805
+iter 8: avg loss = 1.7851e-04, inlier count = 340804
+iter 9: avg loss = 1.7851e-04, inlier count = 340805
+Point-based fusion
+updated: 230599, added: 10417, total: 1907837
+  trans err vs GT (Z-up viz): 0.6524 m | mean so far: 0.2684 m
+loading frame 196
+Frame-to-model ICP
+iter 0: avg loss = 2.5683e-04, inlier count = 317735
+iter 1: avg loss = 1.9178e-04, inlier count = 335347
+iter 2: avg loss = 1.8678e-04, inlier count = 339753
+iter 3: avg loss = 1.8535e-04, inlier count = 339774
+iter 4: avg loss = 1.8551e-04, inlier count = 339624
+iter 5: avg loss = 1.8547e-04, inlier count = 339562
+iter 6: avg loss = 1.8551e-04, inlier count = 339576
+iter 7: avg loss = 1.8552e-04, inlier count = 339575
+iter 8: avg loss = 1.8553e-04, inlier count = 339576
+iter 9: avg loss = 1.8553e-04, inlier count = 339576
+Point-based fusion
+updated: 230532, added: 10670, total: 1918507
+  trans err vs GT (Z-up viz): 0.6578 m | mean so far: 0.2703 m
+loading frame 197
+Frame-to-model ICP
+iter 0: avg loss = 2.4487e-04, inlier count = 323524
+iter 1: avg loss = 1.9131e-04, inlier count = 332029
+iter 2: avg loss = 1.9344e-04, inlier count = 337408
+iter 3: avg loss = 1.9403e-04, inlier count = 338234
+iter 4: avg loss = 1.9460e-04, inlier count = 338245
+iter 5: avg loss = 1.9489e-04, inlier count = 338173
+iter 6: avg loss = 1.9493e-04, inlier count = 338154
+iter 7: avg loss = 1.9495e-04, inlier count = 338154
+iter 8: avg loss = 1.9492e-04, inlier count = 338147
+iter 9: avg loss = 1.9492e-04, inlier count = 338153
+Point-based fusion
+updated: 229898, added: 10382, total: 1928889
+  trans err vs GT (Z-up viz): 0.6637 m | mean so far: 0.2723 m
+loading frame 198
+Frame-to-model ICP
+iter 0: avg loss = 2.5908e-04, inlier count = 323378
+iter 1: avg loss = 1.9170e-04, inlier count = 331364
+iter 2: avg loss = 1.9791e-04, inlier count = 335355
+iter 3: avg loss = 1.9985e-04, inlier count = 336510
+iter 4: avg loss = 2.0083e-04, inlier count = 336577
+iter 5: avg loss = 2.0128e-04, inlier count = 336612
+iter 6: avg loss = 2.0144e-04, inlier count = 336634
+iter 7: avg loss = 2.0146e-04, inlier count = 336625
+iter 8: avg loss = 2.0152e-04, inlier count = 336640
+iter 9: avg loss = 2.0153e-04, inlier count = 336648
+Point-based fusion
+updated: 229395, added: 10273, total: 1939162
+  trans err vs GT (Z-up viz): 0.6686 m | mean so far: 0.2743 m
+loading frame 199
+Frame-to-model ICP
+iter 0: avg loss = 2.2115e-04, inlier count = 324264
+iter 1: avg loss = 1.8972e-04, inlier count = 329038
+iter 2: avg loss = 1.9744e-04, inlier count = 332826
+iter 3: avg loss = 2.0206e-04, inlier count = 334656
+iter 4: avg loss = 2.0442e-04, inlier count = 335126
+iter 5: avg loss = 2.0560e-04, inlier count = 335326
+iter 6: avg loss = 2.0603e-04, inlier count = 335358
+iter 7: avg loss = 2.0620e-04, inlier count = 335357
+iter 8: avg loss = 2.0622e-04, inlier count = 335335
+iter 9: avg loss = 2.0625e-04, inlier count = 335334
+Point-based fusion
+updated: 229373, added: 10343, total: 1949505
+  trans err vs GT (Z-up viz): 0.6737 m | mean so far: 0.2763 m
+loading frame 200
+Frame-to-model ICP
+iter 0: avg loss = 2.3237e-04, inlier count = 316951
+iter 1: avg loss = 1.8953e-04, inlier count = 325974
+iter 2: avg loss = 1.9690e-04, inlier count = 329819
+iter 3: avg loss = 2.0321e-04, inlier count = 331746
+iter 4: avg loss = 2.0659e-04, inlier count = 332564
+iter 5: avg loss = 2.0836e-04, inlier count = 332883
+iter 6: avg loss = 2.0923e-04, inlier count = 333051
+iter 7: avg loss = 2.0956e-04, inlier count = 333080
+iter 8: avg loss = 2.0991e-04, inlier count = 333131
+iter 9: avg loss = 2.1012e-04, inlier count = 333153
+Point-based fusion
+updated: 229541, added: 10159, total: 1959664
+  trans err vs GT (Z-up viz): 0.6794 m | mean so far: 0.2784 m
+Trajectory summary: mean abs trans error = 0.2784 m, max = 0.6794 m, frames = 200

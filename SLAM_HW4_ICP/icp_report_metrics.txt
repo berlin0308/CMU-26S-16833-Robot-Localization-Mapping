@@ -1,0 +1,30 @@
+ICP run log — dataset: living_room_traj2_frei_png
+Commands (from code/):
+  uv run python preprocess.py --path ../living_room_traj2_frei_png
+  uv run python icp.py --path ../living_room_traj2_frei_png --headless
+
+Default pair (source=10, target=50):
+iter 0: avg loss = 1.4403e-03, inlier count = 54968
+iter 1: avg loss = 4.2105e-04, inlier count = 208261
+iter 2: avg loss = 4.6428e-05, inlier count = 266556
+iter 3: avg loss = 6.6292e-06, inlier count = 272545
+iter 4: avg loss = 4.5575e-06, inlier count = 272145
+iter 5: avg loss = 4.4504e-06, inlier count = 272078
+iter 6: avg loss = 4.4417e-06, inlier count = 272070
+iter 7: avg loss = 4.4403e-06, inlier count = 272070
+iter 8: avg loss = 4.4403e-06, inlier count = 272070
+iter 9: avg loss = 4.4403e-06, inlier count = 272070
+
+Challenging pair (source=10, target=100):
+iter 0: avg loss = 1.4658e-03, inlier count = 13849
+iter 1: avg loss = 1.3603e-03, inlier count = 28126
+iter 2: avg loss = 1.0852e-03, inlier count = 53218
+iter 3: avg loss = 6.6045e-04, inlier count = 88252
+iter 4: avg loss = 1.7835e-04, inlier count = 114362
+iter 5: avg loss = 1.5914e-04, inlier count = 114805
+iter 6: avg loss = 1.5889e-04, inlier count = 115106
+iter 7: avg loss = 1.5867e-04, inlier count = 115310
+iter 8: avg loss = 1.5868e-04, inlier count = 115548
+iter 9: avg loss = 1.5859e-04, inlier count = 115747
+
+Note: avg loss is mean(b^2) with b_i = n_qi^T (q_i - p_i') from build_linear_system.

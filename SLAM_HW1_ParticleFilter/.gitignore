@@ -1,0 +1,5 @@
+code/.venv/*
+code/__pycache__/*
+code/raycast_map.npy
+code/results/*
+*.mp4
